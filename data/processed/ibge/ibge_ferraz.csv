@@ -1,0 +1,19 @@
+﻿indicador;valor;ano;unidade
+populacao_censo;179198.0;2022;pessoas
+populacao_estimada;186479.0;2025;pessoas
+densidade_demografica;6064.85;2022;hab/km²
+pib_per_capita;30826.13;2023;R$
+idhm;0.738;2010;índice
+salario_medio_formal;2.5;2023;salários mínimos
+empregos_formais;28062.0;2023;pessoas
+pop_ate_meio_sm;37.0;2010;%
+escolarizacao_6_14;98.26;2022;%
+ideb_fundamental_inicial;6.1;2023;nota
+ideb_fundamental_final;5.0;2023;nota
+mortalidade_infantil;13.6;2023;por mil nascidos
+esgotamento_sanitario;88.54;2022;%
+urbanizacao_vias;11.8;2010;%
+area_km2;29.58;2025;km²
+receita_total;732618633.68;2024;R$
+despesa_total_empenhada;652083105.99;2024;R$
+transferencias_correntes_pct;70.49;2024;%

@@ -59,6 +59,13 @@ def carregar_audesp() -> pd.DataFrame:
         return df
     return pd.DataFrame()
 
+@st.cache_data
+def carregar_ibge() -> pd.DataFrame:
+    caminho = Path("data/processed/ibge/ibge_ferraz.csv")
+    if caminho.exists():
+        return pd.read_csv(caminho, sep=";", encoding="utf-8-sig")
+    return pd.DataFrame()
+
 def formatar_reais(valor: float) -> str:
     return f"R$ {valor/1e6:_.2f} mi".replace(".", ",").replace("_", ".")
 
@@ -73,7 +80,7 @@ st.divider()
 st.sidebar.title("Navegação")
 pagina = st.sidebar.radio(
     "Seção",
-    ["📊 Visão Geral", "⚠️ Alertas e Irregularidades", "📋 Indicadores AUDESP"]
+    ["📊 Visão Geral", "⚠️ Alertas e Irregularidades", "📋 Indicadores AUDESP", "🏙️ Contexto Socioeconômico"]
 )
 st.sidebar.divider()
 st.sidebar.title("Filtros")
@@ -424,3 +431,98 @@ elif pagina == "📋 Indicadores AUDESP":
 
     st.divider()
     st.caption("Fonte: TCE-SP / AUDESP · Dados: 2016–2025")
+elif pagina == "🏙️ Contexto Socioeconômico":
+
+    st.subheader("🏙️ Contexto Socioeconômico — Ferraz de Vasconcelos")
+    st.caption("Fonte: IBGE · Censo 2022 · PNUD · Dados de referência para análise dos gastos públicos")
+
+    ibge = carregar_ibge()
+
+    if ibge.empty:
+        st.warning("Dados IBGE não encontrados em data/processed/ibge/ibge_ferraz.csv")
+    else:
+        def get(indicador):
+            row = ibge[ibge["indicador"] == indicador]
+            if not row.empty:
+                return row.iloc[0]["valor"], int(row.iloc[0]["ano"])
+            return None, None
+
+        st.divider()
+        st.subheader("População e território")
+        col1, col2, col3 = st.columns(3)
+        with col1:
+            v, a = get("populacao_censo")
+            st.metric("População (Censo)", f"{int(v):,}".replace(",", "."), delta=f"Censo {a}")
+        with col2:
+            v, a = get("populacao_estimada")
+            st.metric("População estimada", f"{int(v):,}".replace(",", "."), delta=str(a))
+        with col3:
+            v, a = get("densidade_demografica")
+            st.metric("Densidade demográfica", f"{v:,.0f} hab/km²", delta=str(a))
+
+        st.divider()
+        st.subheader("Economia e renda")
+        col1, col2, col3 = st.columns(3)
+        with col1:
+            v, a = get("pib_per_capita")
+            st.metric("PIB per capita", f"R$ {v:,.2f}", delta=str(a))
+        with col2:
+            v, a = get("idhm")
+            st.metric("IDHM", f"{v:.3f}", delta=f"{a} — desatualizado")
+        with col3:
+            v, a = get("salario_medio_formal")
+            st.metric("Salário médio formal", f"{v:.1f} SM", delta=str(a))
+
+        col1, col2, col3 = st.columns(3)
+        with col1:
+            v, a = get("empregos_formais")
+            st.metric("Empregos formais", f"{int(v):,}".replace(",", "."), delta=str(a))
+        with col2:
+            v, a = get("pop_ate_meio_sm")
+            st.metric("Pop. até ½ SM", f"{v:.0f}%", delta=f"{a} — contexto pobreza")
+        with col3:
+            v, a = get("transferencias_correntes_pct")
+            st.metric("Dependência de repasses", f"{v:.1f}%", delta=f"da receita em {a}")
+
+        st.divider()
+        st.subheader("Educação")
+        col1, col2, col3 = st.columns(3)
+        with col1:
+            v, a = get("escolarizacao_6_14")
+            st.metric("Escolarização 6–14 anos", f"{v:.2f}%", delta=str(a))
+        with col2:
+            v, a = get("ideb_fundamental_inicial")
+            st.metric("IDEB Fund. Inicial", f"{v:.1f}", delta=str(a))
+        with col3:
+            v, a = get("ideb_fundamental_final")
+            st.metric("IDEB Fund. Final", f"{v:.1f}", delta=str(a))
+
+        st.divider()
+        st.subheader("Saúde e infraestrutura")
+        col1, col2, col3 = st.columns(3)
+        with col1:
+            v, a = get("mortalidade_infantil")
+            st.metric("Mortalidade infantil", f"{v:.1f}/mil nascidos", delta=str(a))
+        with col2:
+            v, a = get("esgotamento_sanitario")
+            st.metric("Esgotamento sanitário", f"{v:.2f}%", delta=str(a))
+        with col3:
+            v, a = get("urbanizacao_vias")
+            st.metric("Urbanização de vias", f"{v:.1f}%",
+                      delta=f"{a} — déficit explica obras CASAMAX",
+                      delta_color="off")
+
+        st.divider()
+        st.markdown("""
+        <div class="alerta">
+        ⚠️ <strong>Contexto importante para a análise:</strong><br>
+        Com apenas <strong>11,8% de urbanização de vias</strong> (2010) e <strong>37% da população 
+        com renda até ½ salário mínimo</strong>, Ferraz tem déficits reais de infraestrutura. 
+        Isso contextualiza — mas não justifica — o volume de contratos com a CASAMAX (R$ 87,5mi) 
+        e a DATACITY (R$ 46,9mi). A questão central permanece: <em>os valores pagos foram justos 
+        e os serviços foram entregues?</em>
+        </div>
+        """, unsafe_allow_html=True)
+
+        st.divider()
+        st.caption("Fonte: IBGE Cidades · Censo Demográfico 2022 · PNUD 2010 · DATASUS 2023")
