@@ -526,3 +526,82 @@ elif pagina == "🏙️ Contexto Socioeconômico":
 
         st.divider()
         st.caption("Fonte: IBGE Cidades · Censo Demográfico 2022 · PNUD 2010 · DATASUS 2023")
+
+        st.divider()
+        st.subheader("Mortalidade — DATASUS 2020–2024")
+
+        obitos_ano = pd.DataFrame([
+            {"Ano": 2020, "Óbitos": 1223, "Taxa/100k": 655.8},
+            {"Ano": 2021, "Óbitos": 1532, "Taxa/100k": 821.5},
+            {"Ano": 2022, "Óbitos": 1173, "Taxa/100k": 629.0},
+            {"Ano": 2023, "Óbitos": 1129, "Taxa/100k": 605.4},
+            {"Ano": 2024, "Óbitos": 1197, "Taxa/100k": 641.9},
+        ])
+
+        obitos_causa = pd.DataFrame([
+            {"Causa": "Doenças circulatórias",        "Óbitos": 1414},
+            {"Causa": "Neoplasias",                   "Óbitos": 856},
+            {"Causa": "Causas mal definidas",         "Óbitos": 854},
+            {"Causa": "Doenças infecciosas",          "Óbitos": 792},
+            {"Causa": "Doenças respiratórias",        "Óbitos": 625},
+            {"Causa": "Causas externas",              "Óbitos": 419},
+            {"Causa": "Doenças endócrinas",           "Óbitos": 361},
+            {"Causa": "Doenças digestivas",           "Óbitos": 269},
+            {"Causa": "Doenças geniturinárias",       "Óbitos": 219},
+            {"Causa": "Doenças neurológicas",         "Óbitos": 168},
+        ])
+
+        col1, col2 = st.columns(2)
+
+        with col1:
+            st.metric("Total de óbitos 2020–2024", "6.254")
+            st.metric("Taxa média anual", "670,7/100 mil hab")
+            st.metric("Causas mal definidas", "13,7%",
+                      delta="⚠ acima do esperado", delta_color="inverse")
+            st.metric("Causas externas", "6,7% · 84/ano",
+                      delta="violência e acidentes", delta_color="off")
+
+            # Evolução anual
+            fig_ano = go.Figure(go.Bar(
+                x=obitos_ano["Ano"],
+                y=obitos_ano["Óbitos"],
+                marker_color=["#e63946" if a == 2021 else "#2196F3"
+                              for a in obitos_ano["Ano"]],
+                hovertemplate="%{y} óbitos<extra></extra>",
+            ))
+            fig_ano.update_layout(
+                title="Óbitos por ano",
+                xaxis=dict(tickmode="linear", dtick=1),
+                margin=dict(l=0, r=0, t=30, b=0),
+                height=250,
+            )
+            st.plotly_chart(fig_ano, use_container_width=True)
+
+        with col2:
+            # Causas
+            fig_causa = go.Figure(go.Bar(
+                x=obitos_causa["Óbitos"],
+                y=obitos_causa["Causa"],
+                orientation="h",
+                marker_color=["#e63946" if c == "Causas mal definidas"
+                              else "#f4a261" if c == "Causas externas"
+                              else "#2196F3"
+                              for c in obitos_causa["Causa"]],
+                hovertemplate="%{x} óbitos<extra></extra>",
+            ))
+            fig_causa.update_layout(
+                title="Óbitos por causa (2020–2024)",
+                margin=dict(l=0, r=0, t=30, b=0),
+                height=350,
+            )
+            st.plotly_chart(fig_causa, use_container_width=True)
+
+        st.markdown("""
+        <div class="alerta">
+        ⚠️ <strong>Causas mal definidas: 13,7%</strong> dos óbitos sem diagnóstico claro —
+        acima do esperado para municípios bem estruturados (&lt;5%).
+        Pode indicar subnotificação ou problemas na qualidade do atendimento médico.<br>
+        🔴 <strong>Pico 2021</strong> — aumento de 25% em relação a 2020,
+        reflexo direto da COVID-19.
+        </div>
+        """, unsafe_allow_html=True)

@@ -43,6 +43,15 @@ Registro de ajustes e melhorias identificadas ao longo do desenvolvimento.
 - **Ação:** solicitar via LAI os processos licitatórios e verificar preços vs mercado regional
 - **Prioridade:** alta
 
+### [P014] Dados DATASUS — download manual via TABNET
+- **URL:** http://tabnet.datasus.gov.br/cgi/deftohtm.exe?sim/cnv/obt10SP.def
+- **Dados necessários:**
+  - Mortalidade por residência — Ferraz — 2020 a 2024
+  - Internações SIH — Ferraz — 2020 a 2024
+- **Como fazer:** selecionar Município na Linha, períodos 2020-2024,
+  município 351570 FERRAZ DE VASCONCELOS, clicar OK e depois Mostra
+- **FTP bloqueado:** firewall impediu acesso direto
+- **Prioridade:** baixa — dados parciais já disponíveis via IBGE
 ---
 
 ## Resolvidas
