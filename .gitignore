@@ -1,0 +1,32 @@
+# Ambiente virtual
+.venv/
+envs/
+
+# Variáveis sensíveis
+.env
+
+# Dados brutos (muito pesados)
+data/raw/
+
+# Comprovantes de CNPJ
+data/raw/comprovante-cnpj/
+
+# Dados exportados
+data/exports/
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+dist/
+build/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# VS Code
+.vscode/
+
+# Sistema
+.DS_Store
+Thumbs.db

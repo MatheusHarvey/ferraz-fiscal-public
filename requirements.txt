@@ -1,0 +1,12 @@
+requests
+httpx
+beautifulsoup4
+selenium
+pandas
+duckdb
+openpyxl
+streamlit
+plotly
+python-dotenv
+loguru
+tqdm

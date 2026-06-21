@@ -1,0 +1,229 @@
+﻿Instituição;Cod.IBGE;UF;População;Coluna;Conta;Identificador da Conta;Valor;ano
+Prefeitura Municipal de Ferraz de Vasconcelos - SP;3515707;SP;196500;Despesas Empenhadas;Total Geral da Despesa;siconfi-cor_TotalDespesas;412711060,75;2021
+Prefeitura Municipal de Ferraz de Vasconcelos - SP;3515707;SP;196500;Despesas Empenhadas;3.0.00.00.00 - Despesas Correntes;siconfi-cor_DO3.0.00.00.00.00;364615680,93;2021
+Prefeitura Municipal de Ferraz de Vasconcelos - SP;3515707;SP;196500;Despesas Empenhadas;3.1.00.00.00 - Pessoal e Encargos Sociais;siconfi-cor_DO3.1.00.00.00.00;184004959,56;2021
+Prefeitura Municipal de Ferraz de Vasconcelos - SP;3515707;SP;196500;Despesas Empenhadas;3.1.90.00.00 - Aplicações Diretas;siconfi-cor_DO3.1.90.00.00.00;183736713,28;2021
+Prefeitura Municipal de Ferraz de Vasconcelos - SP;3515707;SP;196500;Despesas Empenhadas;3.1.90.01.00 - Aposentadorias do RPPS, Reserva Remunerada e Reformas dos Militares;siconfi-cor_DO3.1.90.01.00.00;3602029,17;2021
+Prefeitura Municipal de Ferraz de Vasconcelos - SP;3515707;SP;196500;Despesas Empenhadas;3.1.90.03.00 - Pensões do RPPS e do Militar;siconfi-cor_DO3.1.90.03.00.00;684386,56;2021
+Prefeitura Municipal de Ferraz de Vasconcelos - SP;3515707;SP;196500;Despesas Empenhadas;3.1.90.05.00 - Outros Benefícios Previdenciários do Servidor ou do Militar;siconfi-cor_DO3.1.90.05.00.00;308731,25;2021
+Prefeitura Municipal de Ferraz de Vasconcelos - SP;3515707;SP;196500;Despesas Empenhadas;3.1.90.11.00 - Vencimentos e Vantagens Fixas - Pessoal Civil;siconfi-cor_DO3.1.90.11.00.00;137632048,49;2021
+Prefeitura Municipal de Ferraz de Vasconcelos - SP;3515707;SP;196500;Despesas Empenhadas;3.1.90.13.00 - Obrigações Patronais;siconfi-cor_DO3.1.90.13.00.00;31953886,37;2021
+Prefeitura Municipal de Ferraz de Vasconcelos - SP;3515707;SP;196500;Despesas Empenhadas;3.1.90.13.01 - FGTS;siconfi-cor_DO3.1.90.13.01.00;584030,25;2021
+Prefeitura Municipal de Ferraz de Vasconcelos - SP;3515707;SP;196500;Despesas Empenhadas;3.1.90.13.02 - Contribuições Previdenciárias - INSS;siconfi-cor_DO3.1.90.13.02.00;31272493,38;2021
+Prefeitura Municipal de Ferraz de Vasconcelos - SP;3515707;SP;196500;Despesas Empenhadas;3.1.90.13.08 - Plano de Seg. Soc. do Servidor - Pessoal Ativo;siconfi-cor_DO3.1.90.13.08.00;41279,75;2021
+Prefeitura Municipal de Ferraz de Vasconcelos - SP;3515707;SP;196500;Despesas Empenhadas;3.1.90.13.11 - FGTS - PDV;siconfi-cor_DO3.1.90.13.11.00;476,2;2021
+Prefeitura Municipal de Ferraz de Vasconcelos - SP;3515707;SP;196500;Despesas Empenhadas;3.1.90.13.99 - Outras Obrigações Patronais;siconfi-cor_DO3.1.90.13.99.00;55606,79;2021
+Prefeitura Municipal de Ferraz de Vasconcelos - SP;3515707;SP;196500;Despesas Empenhadas;3.1.90.16.00 - Outras Despesas Variáveis - Pessoal Civil;siconfi-cor_DO3.1.90.16.00.00;7134208,81;2021
+Prefeitura Municipal de Ferraz de Vasconcelos - SP;3515707;SP;196500;Despesas Empenhadas;3.1.90.91.00 - Sentenças Judiciais;siconfi-cor_DO3.1.90.91.00.00;612853,42;2021
+Prefeitura Municipal de Ferraz de Vasconcelos - SP;3515707;SP;196500;Despesas Empenhadas;3.1.90.92.00 - Despesas de Exercícios Anteriores;siconfi-cor_DO3.1.90.92.00.00;1675,88;2021
+Prefeitura Municipal de Ferraz de Vasconcelos - SP;3515707;SP;196500;Despesas Empenhadas;3.1.90.94.00 - Indenizações e Restituições Trabalhistas;siconfi-cor_DO3.1.90.94.00.00;1806893,33;2021
+Prefeitura Municipal de Ferraz de Vasconcelos - SP;3515707;SP;196500;Despesas Empenhadas;3.1.91.00.00 - Aplicação Direta Decorrente de Operação entre Órgãos, Fundos e Entidades Integrantes dos Orçamentos Fiscal e da Seguridade Social;siconfi-cor_DI3.1.91.00.00.00;268246,28;2021
+Prefeitura Municipal de Ferraz de Vasconcelos - SP;3515707;SP;196500;Despesas Empenhadas;3.1.91.13.00 - Contribuições Patronais;siconfi-cor_DI3.1.91.13.00.00;268246,28;2021
+Prefeitura Municipal de Ferraz de Vasconcelos - SP;3515707;SP;196500;Despesas Empenhadas;3.1.91.13.99 - Outras Obrigações Patronais - Intraorçamentária;siconfi-cor_DI3.1.91.13.99.00;268246,28;2021
+Prefeitura Municipal de Ferraz de Vasconcelos - SP;3515707;SP;196500;Despesas Empenhadas;3.2.00.00.00 - Juros e Encargos da Dívida;siconfi-cor_DO3.2.00.00.00.00;1068620,29;2021
+Prefeitura Municipal de Ferraz de Vasconcelos - SP;3515707;SP;196500;Despesas Empenhadas;3.2.90.00.00 - Aplicações Diretas;siconfi-cor_DO3.2.90.00.00.00;1068620,29;2021
+Prefeitura Municipal de Ferraz de Vasconcelos - SP;3515707;SP;196500;Despesas Empenhadas;3.2.90.21.00 - Juros sobre a Dívida por Contrato;siconfi-cor_DO3.2.90.21.00.00;1068620,29;2021
+Prefeitura Municipal de Ferraz de Vasconcelos - SP;3515707;SP;196500;Despesas Empenhadas;3.3.00.00.00 - Outras Despesas Correntes;siconfi-cor_DO3.3.00.00.00.00;179542101,08;2021
+Prefeitura Municipal de Ferraz de Vasconcelos - SP;3515707;SP;196500;Despesas Empenhadas;3.3.50.00.00 - Transferências a Instituições Privadas sem Fins Lucrativos;siconfi-cor_DO3.3.50.00.00.00;41276561,53;2021
+Prefeitura Municipal de Ferraz de Vasconcelos - SP;3515707;SP;196500;Despesas Empenhadas;3.3.60.00.00 - Transferências a Instituições Privadas com Fins Lucrativos;siconfi-cor_DO3.3.60.00.00.00;300262,41;2021
+Prefeitura Municipal de Ferraz de Vasconcelos - SP;3515707;SP;196500;Despesas Empenhadas;3.3.71.00.00 - Transferências a Consórcios Públicos mediante contrato de rateio;siconfi-cor_DO3.3.71.00.00.00;528075,47;2021
+Prefeitura Municipal de Ferraz de Vasconcelos - SP;3515707;SP;196500;Despesas Empenhadas;3.3.90.00.00 - Aplicações Diretas;siconfi-cor_DO3.3.90.00.00.00;137437201,67;2021
+Prefeitura Municipal de Ferraz de Vasconcelos - SP;3515707;SP;196500;Despesas Empenhadas;3.3.90.30.00 - Material de Consumo;siconfi-cor_DO3.3.90.30.00.00;21760786,25;2021
+Prefeitura Municipal de Ferraz de Vasconcelos - SP;3515707;SP;196500;Despesas Empenhadas;3.3.90.32.00 - Material, Bem ou Serviço para Distribuição Gratuita;siconfi-cor_DO3.3.90.32.00.00;5915798,37;2021
+Prefeitura Municipal de Ferraz de Vasconcelos - SP;3515707;SP;196500;Despesas Empenhadas;3.3.90.33.00 - Passagens e Despesas com Locomoção;siconfi-cor_DO3.3.90.33.00.00;4200,0;2021
+Prefeitura Municipal de Ferraz de Vasconcelos - SP;3515707;SP;196500;Despesas Empenhadas;3.3.90.36.00 - Outros Serviços de Terceiros - Pessoa Física;siconfi-cor_DO3.3.90.36.00.00;2308373,06;2021
+Prefeitura Municipal de Ferraz de Vasconcelos - SP;3515707;SP;196500;Despesas Empenhadas;3.3.90.39.00 - Outros Serviços de Terceiros - Pessoa Jurídica;siconfi-cor_DO3.3.90.39.00.00;79191386,76;2021
+Prefeitura Municipal de Ferraz de Vasconcelos - SP;3515707;SP;196500;Despesas Empenhadas;3.3.90.40.00 - Serviços de Tecnologia da Informação e Comunicação (TIC) - Pessoa Jurídica;siconfi-cor_DO3.3.90.40.00.00;436857,85;2021
+Prefeitura Municipal de Ferraz de Vasconcelos - SP;3515707;SP;196500;Despesas Empenhadas;3.3.90.41.00 - Contribuições;siconfi-cor_DO3.3.90.41.00.00;387103,52;2021
+Prefeitura Municipal de Ferraz de Vasconcelos - SP;3515707;SP;196500;Despesas Empenhadas;3.3.90.46.00 - Auxílio-Alimentação;siconfi-cor_DO3.3.90.46.00.00;4325568,45;2021
+Prefeitura Municipal de Ferraz de Vasconcelos - SP;3515707;SP;196500;Despesas Empenhadas;3.3.90.47.00 - Obrigações Tributárias e Contributivas;siconfi-cor_DO3.3.90.47.00.00;3364973,22;2021
+Prefeitura Municipal de Ferraz de Vasconcelos - SP;3515707;SP;196500;Despesas Empenhadas;3.3.90.48.00 - Outros Auxílios Financeiros a Pessoas Físicas;siconfi-cor_DO3.3.90.48.00.00;4218937,06;2021
+Prefeitura Municipal de Ferraz de Vasconcelos - SP;3515707;SP;196500;Despesas Empenhadas;3.3.90.49.00 - Auxílio-Transporte;siconfi-cor_DO3.3.90.49.00.00;15065,66;2021
+Prefeitura Municipal de Ferraz de Vasconcelos - SP;3515707;SP;196500;Despesas Empenhadas;3.3.90.91.00 - Sentenças Judiciais;siconfi-cor_DO3.3.90.91.00.00;13081100,8;2021
+Prefeitura Municipal de Ferraz de Vasconcelos - SP;3515707;SP;196500;Despesas Empenhadas;3.3.90.92.00 - Despesas de Exercícios Anteriores;siconfi-cor_DO3.3.90.92.00.00;223610,01;2021
+Prefeitura Municipal de Ferraz de Vasconcelos - SP;3515707;SP;196500;Despesas Empenhadas;3.3.90.93.00 - Indenizações e Restituições;siconfi-cor_DO3.3.90.93.00.00;2203440,66;2021
+Prefeitura Municipal de Ferraz de Vasconcelos - SP;3515707;SP;196500;Despesas Empenhadas;4.0.00.00.00 - Despesas de Capital;siconfi-cor_DO4.0.00.00.00.00;48095379,82;2021
+Prefeitura Municipal de Ferraz de Vasconcelos - SP;3515707;SP;196500;Despesas Empenhadas;4.4.00.00.00 - Investimentos;siconfi-cor_DO4.4.00.00.00.00;39809766,38;2021
+Prefeitura Municipal de Ferraz de Vasconcelos - SP;3515707;SP;196500;Despesas Empenhadas;4.4.90.00.00 - Aplicações Diretas;siconfi-cor_DO4.4.90.00.00.00;39809766,38;2021
+Prefeitura Municipal de Ferraz de Vasconcelos - SP;3515707;SP;196500;Despesas Empenhadas;4.4.90.39.00 - Outros Serviços de Terceiros - Pessoa Jurídica;siconfi-cor_DO4.4.90.39.00.00;16490,0;2021
+Prefeitura Municipal de Ferraz de Vasconcelos - SP;3515707;SP;196500;Despesas Empenhadas;4.4.90.51.00 - Obras e Instalações;siconfi-cor_DO4.4.90.51.00.00;20299029,99;2021
+Prefeitura Municipal de Ferraz de Vasconcelos - SP;3515707;SP;196500;Despesas Empenhadas;4.4.90.51.91 - Obras em Andamento;siconfi-cor_DO4.4.90.51.91.00;18996965,03;2021
+Prefeitura Municipal de Ferraz de Vasconcelos - SP;3515707;SP;196500;Despesas Empenhadas;4.4.90.51.99 - Demais Obras e Instalações;siconfi-cor_DO4.4.90.51.99.00;1302064,96;2021
+Prefeitura Municipal de Ferraz de Vasconcelos - SP;3515707;SP;196500;Despesas Empenhadas;4.4.90.52.00 - Equipamentos e Material Permanente;siconfi-cor_DO4.4.90.52.00.00;18543381,87;2021
+Prefeitura Municipal de Ferraz de Vasconcelos - SP;3515707;SP;196500;Despesas Empenhadas;4.4.90.61.00 - Aquisição de Imóveis;siconfi-cor_DO4.4.90.61.00.00;553000,0;2021
+Prefeitura Municipal de Ferraz de Vasconcelos - SP;3515707;SP;196500;Despesas Empenhadas;4.4.90.91.00 - Sentenças Judiciais;siconfi-cor_DO4.4.90.91.00.00;328236,97;2021
+Prefeitura Municipal de Ferraz de Vasconcelos - SP;3515707;SP;196500;Despesas Empenhadas;4.4.90.93.00 - Indenizações e Restituições;siconfi-cor_DO4.4.90.93.00.00;69627,55;2021
+Prefeitura Municipal de Ferraz de Vasconcelos - SP;3515707;SP;196500;Despesas Empenhadas;4.6.00.00.00 - Amortização da Dívida;siconfi-cor_DO4.6.00.00.00.00;8285613,44;2021
+Prefeitura Municipal de Ferraz de Vasconcelos - SP;3515707;SP;196500;Despesas Empenhadas;4.6.90.00.00 - Aplicações Diretas;siconfi-cor_DO4.6.90.00.00.00;8285613,44;2021
+Prefeitura Municipal de Ferraz de Vasconcelos - SP;3515707;SP;196500;Despesas Empenhadas;4.6.90.71.00 - Principal da Dívida Contratual Resgatado;siconfi-cor_DO4.6.90.71.00.00;8285613,44;2021
+Prefeitura Municipal de Ferraz de Vasconcelos - SP;3515707;SP;196500;Despesas Liquidadas;Total Geral da Despesa;siconfi-cor_TotalDespesas;386061147,17;2021
+Prefeitura Municipal de Ferraz de Vasconcelos - SP;3515707;SP;196500;Despesas Liquidadas;3.0.00.00.00 - Despesas Correntes;siconfi-cor_DO3.0.00.00.00.00;346526877,59;2021
+Prefeitura Municipal de Ferraz de Vasconcelos - SP;3515707;SP;196500;Despesas Liquidadas;3.1.00.00.00 - Pessoal e Encargos Sociais;siconfi-cor_DO3.1.00.00.00.00;177869677,52;2021
+Prefeitura Municipal de Ferraz de Vasconcelos - SP;3515707;SP;196500;Despesas Liquidadas;3.1.90.00.00 - Aplicações Diretas;siconfi-cor_DO3.1.90.00.00.00;177751353,24;2021
+Prefeitura Municipal de Ferraz de Vasconcelos - SP;3515707;SP;196500;Despesas Liquidadas;3.1.90.01.00 - Aposentadorias do RPPS, Reserva Remunerada e Reformas dos Militares;siconfi-cor_DO3.1.90.01.00.00;3071678,1;2021
+Prefeitura Municipal de Ferraz de Vasconcelos - SP;3515707;SP;196500;Despesas Liquidadas;3.1.90.03.00 - Pensões do RPPS e do Militar;siconfi-cor_DO3.1.90.03.00.00;546347,56;2021
+Prefeitura Municipal de Ferraz de Vasconcelos - SP;3515707;SP;196500;Despesas Liquidadas;3.1.90.05.00 - Outros Benefícios Previdenciários do Servidor ou do Militar;siconfi-cor_DO3.1.90.05.00.00;296081,25;2021
+Prefeitura Municipal de Ferraz de Vasconcelos - SP;3515707;SP;196500;Despesas Liquidadas;3.1.90.11.00 - Vencimentos e Vantagens Fixas - Pessoal Civil;siconfi-cor_DO3.1.90.11.00.00;133257650,64;2021
+Prefeitura Municipal de Ferraz de Vasconcelos - SP;3515707;SP;196500;Despesas Liquidadas;3.1.90.13.00 - Obrigações Patronais;siconfi-cor_DO3.1.90.13.00.00;31080271,13;2021
+Prefeitura Municipal de Ferraz de Vasconcelos - SP;3515707;SP;196500;Despesas Liquidadas;3.1.90.13.01 - FGTS;siconfi-cor_DO3.1.90.13.01.00;581443,8;2021
+Prefeitura Municipal de Ferraz de Vasconcelos - SP;3515707;SP;196500;Despesas Liquidadas;3.1.90.13.02 - Contribuições Previdenciárias - INSS;siconfi-cor_DO3.1.90.13.02.00;30410729,29;2021
+Prefeitura Municipal de Ferraz de Vasconcelos - SP;3515707;SP;196500;Despesas Liquidadas;3.1.90.13.08 - Plano de Seg. Soc. do Servidor - Pessoal Ativo;siconfi-cor_DO3.1.90.13.08.00;32015,05;2021
+Prefeitura Municipal de Ferraz de Vasconcelos - SP;3515707;SP;196500;Despesas Liquidadas;3.1.90.13.11 - FGTS - PDV;siconfi-cor_DO3.1.90.13.11.00;476,2;2021
+Prefeitura Municipal de Ferraz de Vasconcelos - SP;3515707;SP;196500;Despesas Liquidadas;3.1.90.13.99 - Outras Obrigações Patronais;siconfi-cor_DO3.1.90.13.99.00;55606,79;2021
+Prefeitura Municipal de Ferraz de Vasconcelos - SP;3515707;SP;196500;Despesas Liquidadas;3.1.90.16.00 - Outras Despesas Variáveis - Pessoal Civil;siconfi-cor_DO3.1.90.16.00.00;7077901,93;2021
+Prefeitura Municipal de Ferraz de Vasconcelos - SP;3515707;SP;196500;Despesas Liquidadas;3.1.90.91.00 - Sentenças Judiciais;siconfi-cor_DO3.1.90.91.00.00;612853,42;2021
+Prefeitura Municipal de Ferraz de Vasconcelos - SP;3515707;SP;196500;Despesas Liquidadas;3.1.90.92.00 - Despesas de Exercícios Anteriores;siconfi-cor_DO3.1.90.92.00.00;1675,88;2021
+Prefeitura Municipal de Ferraz de Vasconcelos - SP;3515707;SP;196500;Despesas Liquidadas;3.1.90.94.00 - Indenizações e Restituições Trabalhistas;siconfi-cor_DO3.1.90.94.00.00;1806893,33;2021
+Prefeitura Municipal de Ferraz de Vasconcelos - SP;3515707;SP;196500;Despesas Liquidadas;3.1.91.00.00 - Aplicação Direta Decorrente de Operação entre Órgãos, Fundos e Entidades Integrantes dos Orçamentos Fiscal e da Seguridade Social;siconfi-cor_DI3.1.91.00.00.00;118324,28;2021
+Prefeitura Municipal de Ferraz de Vasconcelos - SP;3515707;SP;196500;Despesas Liquidadas;3.1.91.13.00 - Contribuições Patronais;siconfi-cor_DI3.1.91.13.00.00;118324,28;2021
+Prefeitura Municipal de Ferraz de Vasconcelos - SP;3515707;SP;196500;Despesas Liquidadas;3.1.91.13.99 - Outras Obrigações Patronais - Intraorçamentária;siconfi-cor_DI3.1.91.13.99.00;118324,28;2021
+Prefeitura Municipal de Ferraz de Vasconcelos - SP;3515707;SP;196500;Despesas Liquidadas;3.2.00.00.00 - Juros e Encargos da Dívida;siconfi-cor_DO3.2.00.00.00.00;1059730,37;2021
+Prefeitura Municipal de Ferraz de Vasconcelos - SP;3515707;SP;196500;Despesas Liquidadas;3.2.90.00.00 - Aplicações Diretas;siconfi-cor_DO3.2.90.00.00.00;1059730,37;2021
+Prefeitura Municipal de Ferraz de Vasconcelos - SP;3515707;SP;196500;Despesas Liquidadas;3.2.90.21.00 - Juros sobre a Dívida por Contrato;siconfi-cor_DO3.2.90.21.00.00;1059730,37;2021
+Prefeitura Municipal de Ferraz de Vasconcelos - SP;3515707;SP;196500;Despesas Liquidadas;3.3.00.00.00 - Outras Despesas Correntes;siconfi-cor_DO3.3.00.00.00.00;167597469,7;2021
+Prefeitura Municipal de Ferraz de Vasconcelos - SP;3515707;SP;196500;Despesas Liquidadas;3.3.50.00.00 - Transferências a Instituições Privadas sem Fins Lucrativos;siconfi-cor_DO3.3.50.00.00.00;41276561,53;2021
+Prefeitura Municipal de Ferraz de Vasconcelos - SP;3515707;SP;196500;Despesas Liquidadas;3.3.60.00.00 - Transferências a Instituições Privadas com Fins Lucrativos;siconfi-cor_DO3.3.60.00.00.00;300262,41;2021
+Prefeitura Municipal de Ferraz de Vasconcelos - SP;3515707;SP;196500;Despesas Liquidadas;3.3.71.00.00 - Transferências a Consórcios Públicos mediante contrato de rateio;siconfi-cor_DO3.3.71.00.00.00;510525,47;2021
+Prefeitura Municipal de Ferraz de Vasconcelos - SP;3515707;SP;196500;Despesas Liquidadas;3.3.90.00.00 - Aplicações Diretas;siconfi-cor_DO3.3.90.00.00.00;125510120,29;2021
+Prefeitura Municipal de Ferraz de Vasconcelos - SP;3515707;SP;196500;Despesas Liquidadas;3.3.90.30.00 - Material de Consumo;siconfi-cor_DO3.3.90.30.00.00;19029280,51;2021
+Prefeitura Municipal de Ferraz de Vasconcelos - SP;3515707;SP;196500;Despesas Liquidadas;3.3.90.32.00 - Material, Bem ou Serviço para Distribuição Gratuita;siconfi-cor_DO3.3.90.32.00.00;5001578,65;2021
+Prefeitura Municipal de Ferraz de Vasconcelos - SP;3515707;SP;196500;Despesas Liquidadas;3.3.90.33.00 - Passagens e Despesas com Locomoção;siconfi-cor_DO3.3.90.33.00.00;4200,0;2021
+Prefeitura Municipal de Ferraz de Vasconcelos - SP;3515707;SP;196500;Despesas Liquidadas;3.3.90.36.00 - Outros Serviços de Terceiros - Pessoa Física;siconfi-cor_DO3.3.90.36.00.00;2299984,19;2021
+Prefeitura Municipal de Ferraz de Vasconcelos - SP;3515707;SP;196500;Despesas Liquidadas;3.3.90.39.00 - Outros Serviços de Terceiros - Pessoa Jurídica;siconfi-cor_DO3.3.90.39.00.00;71757496,61;2021
+Prefeitura Municipal de Ferraz de Vasconcelos - SP;3515707;SP;196500;Despesas Liquidadas;3.3.90.40.00 - Serviços de Tecnologia da Informação e Comunicação (TIC) - Pessoa Jurídica;siconfi-cor_DO3.3.90.40.00.00;312311,6;2021
+Prefeitura Municipal de Ferraz de Vasconcelos - SP;3515707;SP;196500;Despesas Liquidadas;3.3.90.41.00 - Contribuições;siconfi-cor_DO3.3.90.41.00.00;387103,52;2021
+Prefeitura Municipal de Ferraz de Vasconcelos - SP;3515707;SP;196500;Despesas Liquidadas;3.3.90.46.00 - Auxílio-Alimentação;siconfi-cor_DO3.3.90.46.00.00;4325568,45;2021
+Prefeitura Municipal de Ferraz de Vasconcelos - SP;3515707;SP;196500;Despesas Liquidadas;3.3.90.47.00 - Obrigações Tributárias e Contributivas;siconfi-cor_DO3.3.90.47.00.00;3364973,22;2021
+Prefeitura Municipal de Ferraz de Vasconcelos - SP;3515707;SP;196500;Despesas Liquidadas;3.3.90.48.00 - Outros Auxílios Financeiros a Pessoas Físicas;siconfi-cor_DO3.3.90.48.00.00;3657606,04;2021
+Prefeitura Municipal de Ferraz de Vasconcelos - SP;3515707;SP;196500;Despesas Liquidadas;3.3.90.49.00 - Auxílio-Transporte;siconfi-cor_DO3.3.90.49.00.00;15065,66;2021
+Prefeitura Municipal de Ferraz de Vasconcelos - SP;3515707;SP;196500;Despesas Liquidadas;3.3.90.91.00 - Sentenças Judiciais;siconfi-cor_DO3.3.90.91.00.00;13081100,8;2021
+Prefeitura Municipal de Ferraz de Vasconcelos - SP;3515707;SP;196500;Despesas Liquidadas;3.3.90.92.00 - Despesas de Exercícios Anteriores;siconfi-cor_DO3.3.90.92.00.00;223610,01;2021
+Prefeitura Municipal de Ferraz de Vasconcelos - SP;3515707;SP;196500;Despesas Liquidadas;3.3.90.93.00 - Indenizações e Restituições;siconfi-cor_DO3.3.90.93.00.00;2050241,03;2021
+Prefeitura Municipal de Ferraz de Vasconcelos - SP;3515707;SP;196500;Despesas Liquidadas;4.0.00.00.00 - Despesas de Capital;siconfi-cor_DO4.0.00.00.00.00;39534269,58;2021
+Prefeitura Municipal de Ferraz de Vasconcelos - SP;3515707;SP;196500;Despesas Liquidadas;4.4.00.00.00 - Investimentos;siconfi-cor_DO4.4.00.00.00.00;31248656,14;2021
+Prefeitura Municipal de Ferraz de Vasconcelos - SP;3515707;SP;196500;Despesas Liquidadas;4.4.90.00.00 - Aplicações Diretas;siconfi-cor_DO4.4.90.00.00.00;31248656,14;2021
+Prefeitura Municipal de Ferraz de Vasconcelos - SP;3515707;SP;196500;Despesas Liquidadas;4.4.90.39.00 - Outros Serviços de Terceiros - Pessoa Jurídica;siconfi-cor_DO4.4.90.39.00.00;16490,0;2021
+Prefeitura Municipal de Ferraz de Vasconcelos - SP;3515707;SP;196500;Despesas Liquidadas;4.4.90.51.00 - Obras e Instalações;siconfi-cor_DO4.4.90.51.00.00;14242748,4;2021
+Prefeitura Municipal de Ferraz de Vasconcelos - SP;3515707;SP;196500;Despesas Liquidadas;4.4.90.51.91 - Obras em Andamento;siconfi-cor_DO4.4.90.51.91.00;13007024,73;2021
+Prefeitura Municipal de Ferraz de Vasconcelos - SP;3515707;SP;196500;Despesas Liquidadas;4.4.90.51.99 - Demais Obras e Instalações;siconfi-cor_DO4.4.90.51.99.00;1235723,67;2021
+Prefeitura Municipal de Ferraz de Vasconcelos - SP;3515707;SP;196500;Despesas Liquidadas;4.4.90.52.00 - Equipamentos e Material Permanente;siconfi-cor_DO4.4.90.52.00.00;16038553,22;2021
+Prefeitura Municipal de Ferraz de Vasconcelos - SP;3515707;SP;196500;Despesas Liquidadas;4.4.90.61.00 - Aquisição de Imóveis;siconfi-cor_DO4.4.90.61.00.00;553000,0;2021
+Prefeitura Municipal de Ferraz de Vasconcelos - SP;3515707;SP;196500;Despesas Liquidadas;4.4.90.91.00 - Sentenças Judiciais;siconfi-cor_DO4.4.90.91.00.00;328236,97;2021
+Prefeitura Municipal de Ferraz de Vasconcelos - SP;3515707;SP;196500;Despesas Liquidadas;4.4.90.93.00 - Indenizações e Restituições;siconfi-cor_DO4.4.90.93.00.00;69627,55;2021
+Prefeitura Municipal de Ferraz de Vasconcelos - SP;3515707;SP;196500;Despesas Liquidadas;4.6.00.00.00 - Amortização da Dívida;siconfi-cor_DO4.6.00.00.00.00;8285613,44;2021
+Prefeitura Municipal de Ferraz de Vasconcelos - SP;3515707;SP;196500;Despesas Liquidadas;4.6.90.00.00 - Aplicações Diretas;siconfi-cor_DO4.6.90.00.00.00;8285613,44;2021
+Prefeitura Municipal de Ferraz de Vasconcelos - SP;3515707;SP;196500;Despesas Liquidadas;4.6.90.71.00 - Principal da Dívida Contratual Resgatado;siconfi-cor_DO4.6.90.71.00.00;8285613,44;2021
+Prefeitura Municipal de Ferraz de Vasconcelos - SP;3515707;SP;196500;Despesas Pagas;Total Geral da Despesa;siconfi-cor_TotalDespesas;376917171,42;2021
+Prefeitura Municipal de Ferraz de Vasconcelos - SP;3515707;SP;196500;Despesas Pagas;3.0.00.00.00 - Despesas Correntes;siconfi-cor_DO3.0.00.00.00.00;343288052,22;2021
+Prefeitura Municipal de Ferraz de Vasconcelos - SP;3515707;SP;196500;Despesas Pagas;3.1.00.00.00 - Pessoal e Encargos Sociais;siconfi-cor_DO3.1.00.00.00.00;177639461,89;2021
+Prefeitura Municipal de Ferraz de Vasconcelos - SP;3515707;SP;196500;Despesas Pagas;3.1.90.00.00 - Aplicações Diretas;siconfi-cor_DO3.1.90.00.00.00;177521137,61;2021
+Prefeitura Municipal de Ferraz de Vasconcelos - SP;3515707;SP;196500;Despesas Pagas;3.1.90.01.00 - Aposentadorias do RPPS, Reserva Remunerada e Reformas dos Militares;siconfi-cor_DO3.1.90.01.00.00;3071678,1;2021
+Prefeitura Municipal de Ferraz de Vasconcelos - SP;3515707;SP;196500;Despesas Pagas;3.1.90.03.00 - Pensões do RPPS e do Militar;siconfi-cor_DO3.1.90.03.00.00;546347,56;2021
+Prefeitura Municipal de Ferraz de Vasconcelos - SP;3515707;SP;196500;Despesas Pagas;3.1.90.05.00 - Outros Benefícios Previdenciários do Servidor ou do Militar;siconfi-cor_DO3.1.90.05.00.00;296081,25;2021
+Prefeitura Municipal de Ferraz de Vasconcelos - SP;3515707;SP;196500;Despesas Pagas;3.1.90.11.00 - Vencimentos e Vantagens Fixas - Pessoal Civil;siconfi-cor_DO3.1.90.11.00.00;133257650,64;2021
+Prefeitura Municipal de Ferraz de Vasconcelos - SP;3515707;SP;196500;Despesas Pagas;3.1.90.13.00 - Obrigações Patronais;siconfi-cor_DO3.1.90.13.00.00;30850055,5;2021
+Prefeitura Municipal de Ferraz de Vasconcelos - SP;3515707;SP;196500;Despesas Pagas;3.1.90.13.01 - FGTS;siconfi-cor_DO3.1.90.13.01.00;581443,8;2021
+Prefeitura Municipal de Ferraz de Vasconcelos - SP;3515707;SP;196500;Despesas Pagas;3.1.90.13.02 - Contribuições Previdenciárias - INSS;siconfi-cor_DO3.1.90.13.02.00;30184195,26;2021
+Prefeitura Municipal de Ferraz de Vasconcelos - SP;3515707;SP;196500;Despesas Pagas;3.1.90.13.08 - Plano de Seg. Soc. do Servidor - Pessoal Ativo;siconfi-cor_DO3.1.90.13.08.00;28333,45;2021
+Prefeitura Municipal de Ferraz de Vasconcelos - SP;3515707;SP;196500;Despesas Pagas;3.1.90.13.11 - FGTS - PDV;siconfi-cor_DO3.1.90.13.11.00;476,2;2021
+Prefeitura Municipal de Ferraz de Vasconcelos - SP;3515707;SP;196500;Despesas Pagas;3.1.90.13.99 - Outras Obrigações Patronais;siconfi-cor_DO3.1.90.13.99.00;55606,79;2021
+Prefeitura Municipal de Ferraz de Vasconcelos - SP;3515707;SP;196500;Despesas Pagas;3.1.90.16.00 - Outras Despesas Variáveis - Pessoal Civil;siconfi-cor_DO3.1.90.16.00.00;7077901,93;2021
+Prefeitura Municipal de Ferraz de Vasconcelos - SP;3515707;SP;196500;Despesas Pagas;3.1.90.91.00 - Sentenças Judiciais;siconfi-cor_DO3.1.90.91.00.00;612853,42;2021
+Prefeitura Municipal de Ferraz de Vasconcelos - SP;3515707;SP;196500;Despesas Pagas;3.1.90.92.00 - Despesas de Exercícios Anteriores;siconfi-cor_DO3.1.90.92.00.00;1675,88;2021
+Prefeitura Municipal de Ferraz de Vasconcelos - SP;3515707;SP;196500;Despesas Pagas;3.1.90.94.00 - Indenizações e Restituições Trabalhistas;siconfi-cor_DO3.1.90.94.00.00;1806893,33;2021
+Prefeitura Municipal de Ferraz de Vasconcelos - SP;3515707;SP;196500;Despesas Pagas;3.1.91.00.00 - Aplicação Direta Decorrente de Operação entre Órgãos, Fundos e Entidades Integrantes dos Orçamentos Fiscal e da Seguridade Social;siconfi-cor_DI3.1.91.00.00.00;118324,28;2021
+Prefeitura Municipal de Ferraz de Vasconcelos - SP;3515707;SP;196500;Despesas Pagas;3.1.91.13.00 - Contribuições Patronais;siconfi-cor_DI3.1.91.13.00.00;118324,28;2021
+Prefeitura Municipal de Ferraz de Vasconcelos - SP;3515707;SP;196500;Despesas Pagas;3.1.91.13.99 - Outras Obrigações Patronais - Intraorçamentária;siconfi-cor_DI3.1.91.13.99.00;118324,28;2021
+Prefeitura Municipal de Ferraz de Vasconcelos - SP;3515707;SP;196500;Despesas Pagas;3.2.00.00.00 - Juros e Encargos da Dívida;siconfi-cor_DO3.2.00.00.00.00;1059730,37;2021
+Prefeitura Municipal de Ferraz de Vasconcelos - SP;3515707;SP;196500;Despesas Pagas;3.2.90.00.00 - Aplicações Diretas;siconfi-cor_DO3.2.90.00.00.00;1059730,37;2021
+Prefeitura Municipal de Ferraz de Vasconcelos - SP;3515707;SP;196500;Despesas Pagas;3.2.90.21.00 - Juros sobre a Dívida por Contrato;siconfi-cor_DO3.2.90.21.00.00;1059730,37;2021
+Prefeitura Municipal de Ferraz de Vasconcelos - SP;3515707;SP;196500;Despesas Pagas;3.3.00.00.00 - Outras Despesas Correntes;siconfi-cor_DO3.3.00.00.00.00;164588859,96;2021
+Prefeitura Municipal de Ferraz de Vasconcelos - SP;3515707;SP;196500;Despesas Pagas;3.3.50.00.00 - Transferências a Instituições Privadas sem Fins Lucrativos;siconfi-cor_DO3.3.50.00.00.00;41236805,81;2021
+Prefeitura Municipal de Ferraz de Vasconcelos - SP;3515707;SP;196500;Despesas Pagas;3.3.60.00.00 - Transferências a Instituições Privadas com Fins Lucrativos;siconfi-cor_DO3.3.60.00.00.00;300262,41;2021
+Prefeitura Municipal de Ferraz de Vasconcelos - SP;3515707;SP;196500;Despesas Pagas;3.3.71.00.00 - Transferências a Consórcios Públicos mediante contrato de rateio;siconfi-cor_DO3.3.71.00.00.00;510525,47;2021
+Prefeitura Municipal de Ferraz de Vasconcelos - SP;3515707;SP;196500;Despesas Pagas;3.3.90.00.00 - Aplicações Diretas;siconfi-cor_DO3.3.90.00.00.00;122541266,27;2021
+Prefeitura Municipal de Ferraz de Vasconcelos - SP;3515707;SP;196500;Despesas Pagas;3.3.90.30.00 - Material de Consumo;siconfi-cor_DO3.3.90.30.00.00;17910615,12;2021
+Prefeitura Municipal de Ferraz de Vasconcelos - SP;3515707;SP;196500;Despesas Pagas;3.3.90.32.00 - Material, Bem ou Serviço para Distribuição Gratuita;siconfi-cor_DO3.3.90.32.00.00;4994128,65;2021
+Prefeitura Municipal de Ferraz de Vasconcelos - SP;3515707;SP;196500;Despesas Pagas;3.3.90.33.00 - Passagens e Despesas com Locomoção;siconfi-cor_DO3.3.90.33.00.00;4200,0;2021
+Prefeitura Municipal de Ferraz de Vasconcelos - SP;3515707;SP;196500;Despesas Pagas;3.3.90.36.00 - Outros Serviços de Terceiros - Pessoa Física;siconfi-cor_DO3.3.90.36.00.00;2158792,6;2021
+Prefeitura Municipal de Ferraz de Vasconcelos - SP;3515707;SP;196500;Despesas Pagas;3.3.90.39.00 - Outros Serviços de Terceiros - Pessoa Jurídica;siconfi-cor_DO3.3.90.39.00.00;70069147,17;2021
+Prefeitura Municipal de Ferraz de Vasconcelos - SP;3515707;SP;196500;Despesas Pagas;3.3.90.40.00 - Serviços de Tecnologia da Informação e Comunicação (TIC) - Pessoa Jurídica;siconfi-cor_DO3.3.90.40.00.00;299114,0;2021
+Prefeitura Municipal de Ferraz de Vasconcelos - SP;3515707;SP;196500;Despesas Pagas;3.3.90.41.00 - Contribuições;siconfi-cor_DO3.3.90.41.00.00;387103,52;2021
+Prefeitura Municipal de Ferraz de Vasconcelos - SP;3515707;SP;196500;Despesas Pagas;3.3.90.46.00 - Auxílio-Alimentação;siconfi-cor_DO3.3.90.46.00.00;4325568,45;2021
+Prefeitura Municipal de Ferraz de Vasconcelos - SP;3515707;SP;196500;Despesas Pagas;3.3.90.47.00 - Obrigações Tributárias e Contributivas;siconfi-cor_DO3.3.90.47.00.00;3364973,22;2021
+Prefeitura Municipal de Ferraz de Vasconcelos - SP;3515707;SP;196500;Despesas Pagas;3.3.90.48.00 - Outros Auxílios Financeiros a Pessoas Físicas;siconfi-cor_DO3.3.90.48.00.00;3657606,04;2021
+Prefeitura Municipal de Ferraz de Vasconcelos - SP;3515707;SP;196500;Despesas Pagas;3.3.90.49.00 - Auxílio-Transporte;siconfi-cor_DO3.3.90.49.00.00;15065,66;2021
+Prefeitura Municipal de Ferraz de Vasconcelos - SP;3515707;SP;196500;Despesas Pagas;3.3.90.91.00 - Sentenças Judiciais;siconfi-cor_DO3.3.90.91.00.00;13081100,8;2021
+Prefeitura Municipal de Ferraz de Vasconcelos - SP;3515707;SP;196500;Despesas Pagas;3.3.90.92.00 - Despesas de Exercícios Anteriores;siconfi-cor_DO3.3.90.92.00.00;223610,01;2021
+Prefeitura Municipal de Ferraz de Vasconcelos - SP;3515707;SP;196500;Despesas Pagas;3.3.90.93.00 - Indenizações e Restituições;siconfi-cor_DO3.3.90.93.00.00;2050241,03;2021
+Prefeitura Municipal de Ferraz de Vasconcelos - SP;3515707;SP;196500;Despesas Pagas;4.0.00.00.00 - Despesas de Capital;siconfi-cor_DO4.0.00.00.00.00;33629119,2;2021
+Prefeitura Municipal de Ferraz de Vasconcelos - SP;3515707;SP;196500;Despesas Pagas;4.4.00.00.00 - Investimentos;siconfi-cor_DO4.4.00.00.00.00;25343505,76;2021
+Prefeitura Municipal de Ferraz de Vasconcelos - SP;3515707;SP;196500;Despesas Pagas;4.4.90.00.00 - Aplicações Diretas;siconfi-cor_DO4.4.90.00.00.00;25343505,76;2021
+Prefeitura Municipal de Ferraz de Vasconcelos - SP;3515707;SP;196500;Despesas Pagas;4.4.90.39.00 - Outros Serviços de Terceiros - Pessoa Jurídica;siconfi-cor_DO4.4.90.39.00.00;16490,0;2021
+Prefeitura Municipal de Ferraz de Vasconcelos - SP;3515707;SP;196500;Despesas Pagas;4.4.90.51.00 - Obras e Instalações;siconfi-cor_DO4.4.90.51.00.00;13618018,47;2021
+Prefeitura Municipal de Ferraz de Vasconcelos - SP;3515707;SP;196500;Despesas Pagas;4.4.90.51.91 - Obras em Andamento;siconfi-cor_DO4.4.90.51.91.00;12382294,8;2021
+Prefeitura Municipal de Ferraz de Vasconcelos - SP;3515707;SP;196500;Despesas Pagas;4.4.90.51.99 - Demais Obras e Instalações;siconfi-cor_DO4.4.90.51.99.00;1235723,67;2021
+Prefeitura Municipal de Ferraz de Vasconcelos - SP;3515707;SP;196500;Despesas Pagas;4.4.90.52.00 - Equipamentos e Material Permanente;siconfi-cor_DO4.4.90.52.00.00;10758132,77;2021
+Prefeitura Municipal de Ferraz de Vasconcelos - SP;3515707;SP;196500;Despesas Pagas;4.4.90.61.00 - Aquisição de Imóveis;siconfi-cor_DO4.4.90.61.00.00;553000,0;2021
+Prefeitura Municipal de Ferraz de Vasconcelos - SP;3515707;SP;196500;Despesas Pagas;4.4.90.91.00 - Sentenças Judiciais;siconfi-cor_DO4.4.90.91.00.00;328236,97;2021
+Prefeitura Municipal de Ferraz de Vasconcelos - SP;3515707;SP;196500;Despesas Pagas;4.4.90.93.00 - Indenizações e Restituições;siconfi-cor_DO4.4.90.93.00.00;69627,55;2021
+Prefeitura Municipal de Ferraz de Vasconcelos - SP;3515707;SP;196500;Despesas Pagas;4.6.00.00.00 - Amortização da Dívida;siconfi-cor_DO4.6.00.00.00.00;8285613,44;2021
+Prefeitura Municipal de Ferraz de Vasconcelos - SP;3515707;SP;196500;Despesas Pagas;4.6.90.00.00 - Aplicações Diretas;siconfi-cor_DO4.6.90.00.00.00;8285613,44;2021
+Prefeitura Municipal de Ferraz de Vasconcelos - SP;3515707;SP;196500;Despesas Pagas;4.6.90.71.00 - Principal da Dívida Contratual Resgatado;siconfi-cor_DO4.6.90.71.00.00;8285613,44;2021
+Prefeitura Municipal de Ferraz de Vasconcelos - SP;3515707;SP;196500;Inscrição de Restos a Pagar Não Processados;Total Geral da Despesa;siconfi-cor_TotalDespesas;26649913,58;2021
+Prefeitura Municipal de Ferraz de Vasconcelos - SP;3515707;SP;196500;Inscrição de Restos a Pagar Não Processados;3.0.00.00.00 - Despesas Correntes;siconfi-cor_DO3.0.00.00.00.00;18088803,34;2021
+Prefeitura Municipal de Ferraz de Vasconcelos - SP;3515707;SP;196500;Inscrição de Restos a Pagar Não Processados;3.1.00.00.00 - Pessoal e Encargos Sociais;siconfi-cor_DO3.1.00.00.00.00;6135282,04;2021
+Prefeitura Municipal de Ferraz de Vasconcelos - SP;3515707;SP;196500;Inscrição de Restos a Pagar Não Processados;3.1.90.00.00 - Aplicações Diretas;siconfi-cor_DO3.1.90.00.00.00;5985360,04;2021
+Prefeitura Municipal de Ferraz de Vasconcelos - SP;3515707;SP;196500;Inscrição de Restos a Pagar Não Processados;3.1.90.01.00 - Aposentadorias do RPPS, Reserva Remunerada e Reformas dos Militares;siconfi-cor_DO3.1.90.01.00.00;530351,07;2021
+Prefeitura Municipal de Ferraz de Vasconcelos - SP;3515707;SP;196500;Inscrição de Restos a Pagar Não Processados;3.1.90.03.00 - Pensões do RPPS e do Militar;siconfi-cor_DO3.1.90.03.00.00;138039,0;2021
+Prefeitura Municipal de Ferraz de Vasconcelos - SP;3515707;SP;196500;Inscrição de Restos a Pagar Não Processados;3.1.90.05.00 - Outros Benefícios Previdenciários do Servidor ou do Militar;siconfi-cor_DO3.1.90.05.00.00;12650,0;2021
+Prefeitura Municipal de Ferraz de Vasconcelos - SP;3515707;SP;196500;Inscrição de Restos a Pagar Não Processados;3.1.90.11.00 - Vencimentos e Vantagens Fixas - Pessoal Civil;siconfi-cor_DO3.1.90.11.00.00;4374397,85;2021
+Prefeitura Municipal de Ferraz de Vasconcelos - SP;3515707;SP;196500;Inscrição de Restos a Pagar Não Processados;3.1.90.13.00 - Obrigações Patronais;siconfi-cor_DO3.1.90.13.00.00;873615,24;2021
+Prefeitura Municipal de Ferraz de Vasconcelos - SP;3515707;SP;196500;Inscrição de Restos a Pagar Não Processados;3.1.90.13.01 - FGTS;siconfi-cor_DO3.1.90.13.01.00;2586,45;2021
+Prefeitura Municipal de Ferraz de Vasconcelos - SP;3515707;SP;196500;Inscrição de Restos a Pagar Não Processados;3.1.90.13.02 - Contribuições Previdenciárias - INSS;siconfi-cor_DO3.1.90.13.02.00;861764,09;2021
+Prefeitura Municipal de Ferraz de Vasconcelos - SP;3515707;SP;196500;Inscrição de Restos a Pagar Não Processados;3.1.90.13.08 - Plano de Seg. Soc. do Servidor - Pessoal Ativo;siconfi-cor_DO3.1.90.13.08.00;9264,7;2021
+Prefeitura Municipal de Ferraz de Vasconcelos - SP;3515707;SP;196500;Inscrição de Restos a Pagar Não Processados;3.1.90.16.00 - Outras Despesas Variáveis - Pessoal Civil;siconfi-cor_DO3.1.90.16.00.00;56306,88;2021
+Prefeitura Municipal de Ferraz de Vasconcelos - SP;3515707;SP;196500;Inscrição de Restos a Pagar Não Processados;3.1.91.00.00 - Aplicação Direta Decorrente de Operação entre Órgãos, Fundos e Entidades Integrantes dos Orçamentos Fiscal e da Seguridade Social;siconfi-cor_DI3.1.91.00.00.00;149922,0;2021
+Prefeitura Municipal de Ferraz de Vasconcelos - SP;3515707;SP;196500;Inscrição de Restos a Pagar Não Processados;3.1.91.13.00 - Contribuições Patronais;siconfi-cor_DI3.1.91.13.00.00;149922,0;2021
+Prefeitura Municipal de Ferraz de Vasconcelos - SP;3515707;SP;196500;Inscrição de Restos a Pagar Não Processados;3.1.91.13.99 - Outras Obrigações Patronais - Intraorçamentária;siconfi-cor_DI3.1.91.13.99.00;149922,0;2021
+Prefeitura Municipal de Ferraz de Vasconcelos - SP;3515707;SP;196500;Inscrição de Restos a Pagar Não Processados;3.2.00.00.00 - Juros e Encargos da Dívida;siconfi-cor_DO3.2.00.00.00.00;8889,92;2021
+Prefeitura Municipal de Ferraz de Vasconcelos - SP;3515707;SP;196500;Inscrição de Restos a Pagar Não Processados;3.2.90.00.00 - Aplicações Diretas;siconfi-cor_DO3.2.90.00.00.00;8889,92;2021
+Prefeitura Municipal de Ferraz de Vasconcelos - SP;3515707;SP;196500;Inscrição de Restos a Pagar Não Processados;3.2.90.21.00 - Juros sobre a Dívida por Contrato;siconfi-cor_DO3.2.90.21.00.00;8889,92;2021
+Prefeitura Municipal de Ferraz de Vasconcelos - SP;3515707;SP;196500;Inscrição de Restos a Pagar Não Processados;3.3.00.00.00 - Outras Despesas Correntes;siconfi-cor_DO3.3.00.00.00.00;11944631,38;2021
+Prefeitura Municipal de Ferraz de Vasconcelos - SP;3515707;SP;196500;Inscrição de Restos a Pagar Não Processados;3.3.71.00.00 - Transferências a Consórcios Públicos mediante contrato de rateio;siconfi-cor_DO3.3.71.00.00.00;17550,0;2021
+Prefeitura Municipal de Ferraz de Vasconcelos - SP;3515707;SP;196500;Inscrição de Restos a Pagar Não Processados;3.3.90.00.00 - Aplicações Diretas;siconfi-cor_DO3.3.90.00.00.00;11927081,38;2021
+Prefeitura Municipal de Ferraz de Vasconcelos - SP;3515707;SP;196500;Inscrição de Restos a Pagar Não Processados;3.3.90.30.00 - Material de Consumo;siconfi-cor_DO3.3.90.30.00.00;2731505,74;2021
+Prefeitura Municipal de Ferraz de Vasconcelos - SP;3515707;SP;196500;Inscrição de Restos a Pagar Não Processados;3.3.90.32.00 - Material, Bem ou Serviço para Distribuição Gratuita;siconfi-cor_DO3.3.90.32.00.00;914219,72;2021
+Prefeitura Municipal de Ferraz de Vasconcelos - SP;3515707;SP;196500;Inscrição de Restos a Pagar Não Processados;3.3.90.36.00 - Outros Serviços de Terceiros - Pessoa Física;siconfi-cor_DO3.3.90.36.00.00;8388,87;2021
+Prefeitura Municipal de Ferraz de Vasconcelos - SP;3515707;SP;196500;Inscrição de Restos a Pagar Não Processados;3.3.90.39.00 - Outros Serviços de Terceiros - Pessoa Jurídica;siconfi-cor_DO3.3.90.39.00.00;7433890,15;2021
+Prefeitura Municipal de Ferraz de Vasconcelos - SP;3515707;SP;196500;Inscrição de Restos a Pagar Não Processados;3.3.90.40.00 - Serviços de Tecnologia da Informação e Comunicação (TIC) - Pessoa Jurídica;siconfi-cor_DO3.3.90.40.00.00;124546,25;2021
+Prefeitura Municipal de Ferraz de Vasconcelos - SP;3515707;SP;196500;Inscrição de Restos a Pagar Não Processados;3.3.90.48.00 - Outros Auxílios Financeiros a Pessoas Físicas;siconfi-cor_DO3.3.90.48.00.00;561331,02;2021
+Prefeitura Municipal de Ferraz de Vasconcelos - SP;3515707;SP;196500;Inscrição de Restos a Pagar Não Processados;3.3.90.93.00 - Indenizações e Restituições;siconfi-cor_DO3.3.90.93.00.00;153199,63;2021
+Prefeitura Municipal de Ferraz de Vasconcelos - SP;3515707;SP;196500;Inscrição de Restos a Pagar Não Processados;4.0.00.00.00 - Despesas de Capital;siconfi-cor_DO4.0.00.00.00.00;8561110,24;2021
+Prefeitura Municipal de Ferraz de Vasconcelos - SP;3515707;SP;196500;Inscrição de Restos a Pagar Não Processados;4.4.00.00.00 - Investimentos;siconfi-cor_DO4.4.00.00.00.00;8561110,24;2021
+Prefeitura Municipal de Ferraz de Vasconcelos - SP;3515707;SP;196500;Inscrição de Restos a Pagar Não Processados;4.4.90.00.00 - Aplicações Diretas;siconfi-cor_DO4.4.90.00.00.00;8561110,24;2021
+Prefeitura Municipal de Ferraz de Vasconcelos - SP;3515707;SP;196500;Inscrição de Restos a Pagar Não Processados;4.4.90.51.00 - Obras e Instalações;siconfi-cor_DO4.4.90.51.00.00;6056281,59;2021
+Prefeitura Municipal de Ferraz de Vasconcelos - SP;3515707;SP;196500;Inscrição de Restos a Pagar Não Processados;4.4.90.51.91 - Obras em Andamento;siconfi-cor_DO4.4.90.51.91.00;5989940,3;2021
+Prefeitura Municipal de Ferraz de Vasconcelos - SP;3515707;SP;196500;Inscrição de Restos a Pagar Não Processados;4.4.90.51.99 - Demais Obras e Instalações;siconfi-cor_DO4.4.90.51.99.00;66341,29;2021
+Prefeitura Municipal de Ferraz de Vasconcelos - SP;3515707;SP;196500;Inscrição de Restos a Pagar Não Processados;4.4.90.52.00 - Equipamentos e Material Permanente;siconfi-cor_DO4.4.90.52.00.00;2504828,65;2021
+Prefeitura Municipal de Ferraz de Vasconcelos - SP;3515707;SP;196500;Inscrição de Restos a Pagar Processados;Total Geral da Despesa;siconfi-cor_TotalDespesas;9143975,75;2021
+Prefeitura Municipal de Ferraz de Vasconcelos - SP;3515707;SP;196500;Inscrição de Restos a Pagar Processados;3.0.00.00.00 - Despesas Correntes;siconfi-cor_DO3.0.00.00.00.00;3238825,37;2021
+Prefeitura Municipal de Ferraz de Vasconcelos - SP;3515707;SP;196500;Inscrição de Restos a Pagar Processados;3.1.00.00.00 - Pessoal e Encargos Sociais;siconfi-cor_DO3.1.00.00.00.00;230215,63;2021
+Prefeitura Municipal de Ferraz de Vasconcelos - SP;3515707;SP;196500;Inscrição de Restos a Pagar Processados;3.1.90.00.00 - Aplicações Diretas;siconfi-cor_DO3.1.90.00.00.00;230215,63;2021
+Prefeitura Municipal de Ferraz de Vasconcelos - SP;3515707;SP;196500;Inscrição de Restos a Pagar Processados;3.1.90.13.00 - Obrigações Patronais;siconfi-cor_DO3.1.90.13.00.00;230215,63;2021
+Prefeitura Municipal de Ferraz de Vasconcelos - SP;3515707;SP;196500;Inscrição de Restos a Pagar Processados;3.1.90.13.02 - Contribuições Previdenciárias - INSS;siconfi-cor_DO3.1.90.13.02.00;226534,03;2021
+Prefeitura Municipal de Ferraz de Vasconcelos - SP;3515707;SP;196500;Inscrição de Restos a Pagar Processados;3.1.90.13.08 - Plano de Seg. Soc. do Servidor - Pessoal Ativo;siconfi-cor_DO3.1.90.13.08.00;3681,6;2021
+Prefeitura Municipal de Ferraz de Vasconcelos - SP;3515707;SP;196500;Inscrição de Restos a Pagar Processados;3.3.00.00.00 - Outras Despesas Correntes;siconfi-cor_DO3.3.00.00.00.00;3008609,74;2021
+Prefeitura Municipal de Ferraz de Vasconcelos - SP;3515707;SP;196500;Inscrição de Restos a Pagar Processados;3.3.50.00.00 - Transferências a Instituições Privadas sem Fins Lucrativos;siconfi-cor_DO3.3.50.00.00.00;39755,72;2021
+Prefeitura Municipal de Ferraz de Vasconcelos - SP;3515707;SP;196500;Inscrição de Restos a Pagar Processados;3.3.90.00.00 - Aplicações Diretas;siconfi-cor_DO3.3.90.00.00.00;2968854,02;2021
+Prefeitura Municipal de Ferraz de Vasconcelos - SP;3515707;SP;196500;Inscrição de Restos a Pagar Processados;3.3.90.30.00 - Material de Consumo;siconfi-cor_DO3.3.90.30.00.00;1118665,39;2021
+Prefeitura Municipal de Ferraz de Vasconcelos - SP;3515707;SP;196500;Inscrição de Restos a Pagar Processados;3.3.90.32.00 - Material, Bem ou Serviço para Distribuição Gratuita;siconfi-cor_DO3.3.90.32.00.00;7450,0;2021
+Prefeitura Municipal de Ferraz de Vasconcelos - SP;3515707;SP;196500;Inscrição de Restos a Pagar Processados;3.3.90.36.00 - Outros Serviços de Terceiros - Pessoa Física;siconfi-cor_DO3.3.90.36.00.00;141191,59;2021
+Prefeitura Municipal de Ferraz de Vasconcelos - SP;3515707;SP;196500;Inscrição de Restos a Pagar Processados;3.3.90.39.00 - Outros Serviços de Terceiros - Pessoa Jurídica;siconfi-cor_DO3.3.90.39.00.00;1688349,44;2021
+Prefeitura Municipal de Ferraz de Vasconcelos - SP;3515707;SP;196500;Inscrição de Restos a Pagar Processados;3.3.90.40.00 - Serviços de Tecnologia da Informação e Comunicação (TIC) - Pessoa Jurídica;siconfi-cor_DO3.3.90.40.00.00;13197,6;2021
+Prefeitura Municipal de Ferraz de Vasconcelos - SP;3515707;SP;196500;Inscrição de Restos a Pagar Processados;4.0.00.00.00 - Despesas de Capital;siconfi-cor_DO4.0.00.00.00.00;5905150,38;2021
+Prefeitura Municipal de Ferraz de Vasconcelos - SP;3515707;SP;196500;Inscrição de Restos a Pagar Processados;4.4.00.00.00 - Investimentos;siconfi-cor_DO4.4.00.00.00.00;5905150,38;2021
+Prefeitura Municipal de Ferraz de Vasconcelos - SP;3515707;SP;196500;Inscrição de Restos a Pagar Processados;4.4.90.00.00 - Aplicações Diretas;siconfi-cor_DO4.4.90.00.00.00;5905150,38;2021
+Prefeitura Municipal de Ferraz de Vasconcelos - SP;3515707;SP;196500;Inscrição de Restos a Pagar Processados;4.4.90.51.00 - Obras e Instalações;siconfi-cor_DO4.4.90.51.00.00;624729,93;2021
+Prefeitura Municipal de Ferraz de Vasconcelos - SP;3515707;SP;196500;Inscrição de Restos a Pagar Processados;4.4.90.51.91 - Obras em Andamento;siconfi-cor_DO4.4.90.51.91.00;624729,93;2021
+Prefeitura Municipal de Ferraz de Vasconcelos - SP;3515707;SP;196500;Inscrição de Restos a Pagar Processados;4.4.90.52.00 - Equipamentos e Material Permanente;siconfi-cor_DO4.4.90.52.00.00;5280420,45;2021
