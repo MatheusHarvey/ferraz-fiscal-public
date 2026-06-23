@@ -13,15 +13,13 @@ Registro de ajustes e melhorias identificadas ao longo do desenvolvimento.
 - **Ação futura:** monitorar se a API volta a funcionar; tentar endpoint `/dca`
 - **Prioridade:** baixa
 
-### [P006] Emendas parlamentares — sem filtro por município na API
+### [P006] Emendas parlamentares federais — sem filtro por município na API
 - **Onde:** `collectors/portal_federal/coletor_emendas.py`
 - **Problema:** endpoint `/api-de-dados/emendas` não possui parâmetro de município
-- **Dados coletados incorretos:** arquivo `emendas_ferraz.csv` contém dados de outros estados
-- **Solução futura (opção A):** cruzar via `/api-de-dados/emendas/documentos/{codigo}`
-  usando os códigos de emenda dos convênios já coletados
-- **Solução futura (opção B):** baixar CSV completo do Conjunto de Dados do Portal
-  Federal e filtrar por município localmente
-- **Prioridade:** média — fase de cruzamentos
+- **Nota:** emendas municipais já coletadas via portal de Ferraz (172 registros)
+- **Pendente:** emendas federais destinadas a Ferraz ainda não coletadas
+- **Solução futura:** baixar CSV completo do Portal Federal e filtrar localmente
+- **Prioridade:** média
 
 ### [P008] Investigar dispensas de licitação — consultoria
 - **Onde:** `data/processed/tce_sp/licitacoes_ferraz.csv`
@@ -30,28 +28,35 @@ Registro de ajustes e melhorias identificadas ao longo do desenvolvimento.
 - **Prioridade:** baixa
 
 ### [P012] Investigar aditivos contratuais DATACITY
-- **Onde:** `data/processed/tce_sp/datacity_analise.csv`
-- **Achado:** Contrato 161/2016 ativo por pelo menos 4 anos com múltiplos aditivos (até 9º)
-- **Ação:** solicitar via LAI os contratos com todos os termos aditivos e verificar
-  se respeitaram o limite de 25% do valor original (Lei 8.666/93)
+- **Onde:** `data/raw/transparencia_ferraz/datacity/`
+- **Achado:** Contrato 161/2016 ativo por pelo menos 6 anos com 9 aditivos
+- **PDFs obtidos:** contratos 329/2022, 189/2021, 243/2020, 111/2021 e aditivos
+- **Pendente:** ler PDFs e extrair valores originais vs aditivos
+- **Pendente:** reconciliar gap de R$ 30mi sem contrato identificado (2020-2023)
 - **Prioridade:** alta
 
-### [P013] Verificar classificação do concreto usinado — CASAMAX
-- **Onde:** `data/processed/tce_sp/ajustes_ferraz.csv`
-- **Achado:** R$ 9,1mi em concreto usinado (CBUQ) classificado como "material de consumo"
-  em 8 contratos separados — possível fracionamento e classificação indevida
-- **Ação:** solicitar via LAI os processos licitatórios e verificar preços vs mercado regional
+### [P013] Classificação indevida de concreto usinado — CASAMAX
+- **Onde:** processos 00030, 00032, 00059 — portal transparência Ferraz
+- **Achado confirmado:** CBUQ licitado como "material de consumo" em todos os processos
+- **Achado confirmado:** Pregão 00030/2026 mistura café, açúcar e biscoito com 21.000t de asfalto
+- **Escalada de preços:** R$ 498/t → R$ 548/t → R$ 648/t (aumento de 30%)
+- **Desvio SINAPI:** processo 00030 pratica R$ 640-648/t vs R$ 500/t SINAPI (+28%)
+- **LAI:** não necessária — dados obtidos via portal de transparência
+- **Pendente:** consolidar no relatório final para denúncia TCE-SP
 - **Prioridade:** alta
 
-### [P014] Dados DATASUS — download manual via TABNET
-- **URL:** http://tabnet.datasus.gov.br/cgi/deftohtm.exe?sim/cnv/obt10SP.def
-- **Dados necessários:**
-  - Mortalidade por residência — Ferraz — 2020 a 2024
-  - Internações SIH — Ferraz — 2020 a 2024
-- **Como fazer:** selecionar Município na Linha, períodos 2020-2024,
-  município 351570 FERRAZ DE VASCONCELOS, clicar OK e depois Mostra
-- **FTP bloqueado:** firewall impediu acesso direto
-- **Prioridade:** baixa — dados parciais já disponíveis via IBGE
+### [P014] Dashboard — integrar dados do portal de Ferraz
+- **Onde:** `dashboard/app.py`
+- **Pendente:** adicionar página com CASAMAX/DATACITY do portal municipal
+- **Prioridade:** média
+
+### [P015] Relatório final — consolidação para denúncia TCE-SP
+- **Onde:** `docs/relatorio_irregularidades_20260620.md`
+- **Pendente:** resumo executivo de 1 página
+- **Pendente:** numerar e consolidar todos os achados
+- **Pendente:** definir timing com base nas eleições municipais
+- **Prioridade:** alta
+
 ---
 
 ## Resolvidas

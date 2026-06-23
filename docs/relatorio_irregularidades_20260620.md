@@ -340,4 +340,244 @@ vs aditivos e solicitar via LAI os contratos anteriores a 2020.
 
 ---
 
+
+---
+
+## 11. Emendas Parlamentares Municipais — 2026
+
+Fonte: Portal da Transparência Municipal de Ferraz de Vasconcelos
+
+### 11.1 Visão geral
+
+| Indicador | Valor |
+|---|---|
+| Total de emendas | 172 |
+| Valor total orçado | R$ 12,769,178.52 |
+| Valor total empenhado | R$ 10,115,200.60 |
+| Receita total recebida | R$ 17,669,827.76 |
+| Emendas sem empenhamento | 29 (R$ 2,376,126.40) |
+
+### 11.2 Top 10 vereadores por valor orçado
+
+| Vereador | Valor Orçado |
+|---|---|
+| RODRIGO GAMBALE | R$ 10,772,188.49 |
+| JOSE JUCA DE ARAUJO NETO | R$ 263,628.87 |
+| LUIZ TENORIO DE MELO | R$ 254,176.47 |
+| ANANIAS COELHO NETO | R$ 224,176.47 |
+| VALTER COSTA FERNANDES | R$ 199,680.00 |
+| VICENTINHO | R$ 198,000.00 |
+| CLAUDIO ROBERTO SQUIZATO | R$ 150,030.20 |
+| SELMA FRANCISCA DOS SANTOS | R$ 149,438.99 |
+| DR. JORGE DO CARMO | R$ 125,956.35 |
+| HODIRLEI MARTINS PEREIRA | R$ 117,294.00 |
+
+
+### 11.3 Emendas com receita recebida maior que o orçado
+
+Foram identificadas **12 emendas** onde o valor recebido supera
+o valor orçado, totalizando **R$ 14,020,943.04** em recursos recebidos
+acima do planejamento orçamentário. Isso pode indicar transferências federais
+não previstas na LOA ou reclassificações orçamentárias.
+
+| Emenda | Orçado | Recebido | Descrição |
+|---|---|---|---|
+| 30/04/2026 | R$ 0.00 | R$ 28,976.44 | AQUISICAO DE UNIDADE MOVEL DE SAUDE |
+| 30/04/2026 | R$ 0.00 | R$ 2,412,890.71 | O presente Plano de Trabalho tem como objetivo geral executa |
+| 30/04/2026 | R$ 0.00 | R$ 625,378.44 | 676 - Residuos Solidos: Coleta Seletiva Regular, Logistica E |
+| 30/04/2026 | R$ 0.00 | R$ 3,314,505.71 | 10-Saude / 301-Atencao Basica |
+| 30/04/2026 | R$ 1,620,141.61 | R$ 2,517,376.21 | Fortalecer a atencao primaria, ampliando a cobertura da Estr |
+| 30/04/2026 | R$ 63,000.00 | R$ 66,331.20 | Ampliar a oferta e o acesso as acoes e servicos da Atencao E |
+| 30/04/2026 | R$ 0.00 | R$ 1,500,000.00 | INCREMENTO DA MEDIA E ALTA COMPLEXIDADE (MAC) |
+| 30/04/2026 | R$ 0.00 | R$ 500,451.29 | INCREMENTO DA MEDIA E ALTA COMPLEXIDADE (MAC) |
+| 30/04/2026 | R$ 0.00 | R$ 1,004,603.08 | Fortalecer a atencao primaria, ampliando a cobertura da Estr |
+| 04/05/2026 | R$ 0.00 | R$ 1,000,902.57 | INCREMENTO AO CUSTEIO DE SERVICOS DA ATENCAO ESPECIALIZADA A |
+| 30/04/2026 | R$ 1,000,000.00 | R$ 1,042,527.47 | Fortalecer a atencao primaria, ampliando a cobertura da Estr |
+| 30/04/2026 | R$ 0.00 | R$ 6,999.92 | AQUISICAO DE EQUIPAMENTO E MATERIAL PERMANENTE PARA UNIDADE  |
+
+
+### 11.4 Emendas orçadas mas não empenhadas
+
+**29 emendas** com valor total de **R$ 2,376,126.40**
+foram orçadas mas não tiveram execução registrada. Pode indicar emendas
+aprovadas mas não executadas ou com execução pendente de registro.
+
+
+---
+
+
+
+### 9.5 CASAMAX — Reconciliação entre Portal Municipal e TCE-SP
+
+| Fonte | Valor Total | Período |
+|---|---|---|
+| TCE-SP (empenhos) | R$ 87.500.497,17 | 2020–2025 |
+| Portal Municipal (contratos) | R$ 42.815.257,30 | contratos vigentes |
+| **Diferença** | **R$ 44.684.239,87** | — |
+
+**Explicação do gap:** o Portal da Transparência Municipal exibe apenas
+contratos vigentes ou recentes, enquanto o TCE-SP registra todos os
+empenhos históricos. A diferença não configura irregularidade — é uma
+limitação do portal municipal.
+
+**Composição dos gastos por elemento de despesa (TCE-SP 2020–2025):**
+
+| Elemento | Valor | % |
+|---|---|---|
+| Obras em andamento | R$ 62.110.212,73 | 71% |
+| Outros materiais de consumo | R$ 15.687.625,84 | 18% |
+| Obras e instalações | R$ 8.457.251,85 | 10% |
+| Outros serviços de terceiros | R$ 1.008.000,00 | 1% |
+
+**Evolução anual dos empenhos:**
+
+| Ano | Valor Empenhado |
+|---|---|
+| 2020 | R$ 4.452.672,40 |
+| 2021 | R$ 4.766.256,06 |
+| 2022 | R$ 34.520.040,70 |
+| 2023 | R$ 32.049.640,77 |
+| 2024 | R$ 7.610.331,31 |
+| 2025 | R$ 4.101.555,93 |
+
+O pico de **R$ 66,5 milhões em 2022-2023** coincide com os contratos de
+recapeamento e pavimentação identificados nos ajustes do TCE-SP.
+A queda expressiva em 2024-2025 sugere encerramento dos grandes contratos
+de obras, com apenas manutenção e fornecimento de materiais remanescentes.
+
+**Conclusão:** a CASAMAX atua essencialmente como empreiteira de obras
+(71% dos gastos em "Obras em andamento"). Os valores são expressivos mas
+compatíveis com obras de pavimentação em larga escala. A investigação
+pendente (P013) foca na classificação indevida do concreto usinado como
+"material de consumo" e na necessidade de comparação de preços com o SINAPI.
+
+---
+
+
+
+### 9.6 CASAMAX — Pregão Eletrônico 00030/2026 (Processo 4270)
+
+**🔴 ACHADO CRÍTICO — Classificação indevida confirmada**
+
+No Pregão Eletrônico nº 00030/2026, processo administrativo 4270,
+identificou-se a mistura de insumos de obra com gêneros alimentícios
+no mesmo instrumento licitatório, todos classificados como
+"material de consumo":
+
+| Item | Unidade | Quantidade | Preço Unit. | Total | Vencedor |
+|---|---|---|---|---|---|
+| Açúcar refinado 1kg | UN | 3.750 | R$ 4,00 | R$ 15.000,00 | Nutricionale |
+| Biscoito cream cracker 200g | PCT | 1.013 | R$ 2,50 | R$ 2.532,50 | Nutricionale |
+| Café torrado 500g | UN | 1.170 | R$ 17,68 | R$ 20.685,60 | Orion |
+| **Concreto Asfáltico Faixa V** | **T** | **8.000** | **R$ 648,00** | **R$ 5.184.000,00** | **CASAMAX** |
+| **Concreto Asfáltico Faixa IV** | **T** | **8.000** | **R$ 640,00** | **R$ 5.120.000,00** | **CASAMAX** |
+| **Material Betuminoso Reciclado** | **T** | **5.000** | **R$ 290,00** | **R$ 1.450.000,00** | **CASAMAX** |
+
+**Total CASAMAX neste único pregão: R$ 11.754.000,00**
+
+**Indícios identificados:**
+
+1. **Classificação indevida confirmada** — Concreto asfáltico (insumo de obra)
+   licitado no mesmo pregão que café, açúcar e biscoitos, todos sob a
+   categoria "material de consumo". Insumos de obra devem ser licitados
+   como obras ou serviços de engenharia, com critérios técnicos mais rigorosos.
+
+2. **Preço acima do SINAPI** — O preço praticado de R$ 640–648/t para
+   Concreto Asfáltico é aproximadamente **28% acima da referência SINAPI**
+   para SP (R$ 500,25/t em jun/2022). Mesmo considerando atualização monetária
+   pelo INCC de 2022 a 2026 (~20%), o valor permanece acima da referência.
+
+3. **Volume expressivo** — 21.000 toneladas de material asfáltico em um
+   único pregão (16.000t de CBUQ + 5.000t de material betuminoso reciclado),
+   valor total de R$ 11,754 milhões, contratado como "material de consumo".
+
+4. **Secretaria Municipal de Serviços Urbanos** — responsável por 21.000
+   unidades do processo, o que confirma destinação para obras viárias.
+
+**Recomendação:** este pregão constitui o indício mais claro de classificação
+orçamentária indevida identificado na investigação. Recomenda-se incluir
+na denúncia ao TCE-SP como exemplo concreto de irregularidade.
+
+---
+
+
+
+### 9.7 CASAMAX — Análise de preços por processo licitatório
+
+Análise dos itens vencidos pela CASAMAX em 4 processos licitatórios,
+todos classificados como "material de consumo":
+
+| Processo | Produto | Qtd (t) | Preço/t | Total | vs SINAPI* |
+|---|---|---|---|---|---|
+| 00032 (11697) | CBUQ Faixa III e IV | 14.000 | R$ 498,00 | R$ 6.972.000 | ✅ dentro |
+| 00059 (13846) | CBUQ Faixa III e IV | 11.200 | R$ 548,66 | R$ 6.144.992 | ⚠️ +9% |
+| 00030 (4270) | Concreto Asfáltico Faixa IV e V | 16.000 | R$ 640–648 | R$ 10.304.000 | 🔴 +28% |
+| 00030 (4270) | Material Betuminoso Reciclado | 5.000 | R$ 290,00 | R$ 1.450.000 | — |
+
+*SINAPI SP jun/2022: R$ 500,25/t para CBUQ Faixa C CAP 30/45
+
+**Total CASAMAX nos 4 processos: R$ 24.870.992,00**
+
+**Observações:**
+
+1. **Escalada de preços** — o preço do CBUQ saltou de R$ 498/t (processo 00032)
+   para R$ 648/t (processo 00030), um aumento de **30%** entre os processos.
+   O processo 00030 é o mais recente (2026) e apresenta o maior desvio em
+   relação ao SINAPI.
+
+2. **Classificação indevida confirmada em todos os processos** — concreto
+   asfáltico licitado como "material de consumo" em todos os casos analisados,
+   independentemente do volume (até 16.000 toneladas em um único processo).
+
+3. **Concentração em único fornecedor** — a CASAMAX venceu 100% dos lotes
+   de material asfáltico em todos os processos analisados.
+
+### 9.8 DATACITY — Itens por processo licitatório
+
+| Processo | Objeto | Qtd | Valor |
+|---|---|---|---|
+| 00038 (7609) | Prestação de serviços — radares | 1 UN | R$ 3.540.000,00 |
+| 00034 (7102) | Prestação de serviços — apoio técnico (6 itens) | 1 UN cada | R$ 1.164.000,00 |
+
+Serviços contratados por "unidade" sem discriminação de horas,
+equipamentos ou métricas de entrega — prática que dificulta
+a auditoria da execução contratual.
+
+---
+
+
+
+### 9.9 CASAMAX — Consolidação final de valores
+
+| Fonte | Valor | Observação |
+|---|---|---|
+| TCE-SP — empenhos 2020–2025 | R$ 87.500.497,17 | Total histórico completo |
+| Portal Municipal — contratos vigentes | R$ 42.815.257,30 | Apenas contratos ativos |
+| Itens identificados nos processos | R$ 24.870.992,00 | 4 processos analisados |
+
+**Composição dos R$ 87,5 milhões (TCE-SP):**
+
+| Elemento de despesa | Valor | % |
+|---|---|---|
+| Obras em andamento | R$ 62.110.212,73 | 71% |
+| Outros materiais de consumo (CBUQ) | R$ 15.687.625,84 | 18% |
+| Obras e instalações | R$ 8.457.251,85 | 10% |
+| Outros | R$ 1.244.406,75 | 1% |
+
+**Gap entre fontes:** R$ 44,6 milhões — explicado pelo portal municipal
+exibir apenas contratos vigentes, enquanto o TCE-SP registra
+todos os empenhos históricos desde 2020.
+
+**Resumo dos achados CASAMAX:**
+
+1. R$ 87,5 milhões empenhados em 2020–2025 — maior fornecedor de obras
+2. Pico de R$ 66,5 milhões em 2022–2023 — obras de recapeamento
+3. R$ 15,7 milhões em concreto usinado classificado como "material de consumo"
+4. Escalada de preços: R$ 498/t → R$ 548/t → R$ 648/t (+30%)
+5. Pregão 00030/2026 — concreto asfáltico licitado junto com café e biscoitos
+6. Preço 2026 (R$ 640–648/t) 28% acima do SINAPI (R$ 500/t)
+7. 100% dos lotes de material asfáltico vencidos pela CASAMAX
+
+---
+
 *Relatório gerado pelo Ferraz Fiscal — ferramenta de auditoria cívica local. Dados públicos obtidos de fontes oficiais. Este documento não substitui análise jurídica especializada.*
