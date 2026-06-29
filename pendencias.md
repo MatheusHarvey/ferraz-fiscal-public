@@ -13,21 +13,6 @@ Registro de ajustes e melhorias identificadas ao longo do desenvolvimento.
 - **Ação futura:** monitorar se a API volta a funcionar; tentar endpoint `/dca`
 - **Prioridade:** baixa
 
-### [P008] Investigar dispensas de licitação — consultoria
-- **Onde:** `data/processed/tce_sp/licitacoes_ferraz.csv`
-- **Status parcial:** fracionamento ✅ · locações ✅ · medicamentos ✅
-- **Pendente:** investigar 4 dispensas de consultoria identificadas
-- **Prioridade:** baixa
-
-### [P013] Classificação indevida de concreto usinado — CASAMAX
-- **Onde:** processos 00030, 00032, 00059 — portal transparência Ferraz
-- **Achado confirmado:** CBUQ licitado como "material de consumo" em todos os processos
-- **Achado confirmado:** Pregão 00030/2026 mistura café, açúcar e biscoito com 21.000t de asfalto
-- **Escalada de preços:** R$ 498/t → R$ 548/t → R$ 648/t (aumento de 30%)
-- **Desvio SINAPI:** processo 00030 pratica R$ 640-648/t vs R$ 500/t SINAPI (+28%)
-- **Pendente:** consolidar no relatório final para denúncia TCE-SP
-- **Prioridade:** alta
-
 ### [P014] Dashboard — integrar dados do portal de Ferraz
 - **Onde:** `dashboard/app.py`
 - **Pendente:** adicionar página com CASAMAX/DATACITY do portal municipal
@@ -39,7 +24,7 @@ Registro de ajustes e melhorias identificadas ao longo do desenvolvimento.
 - **Ação:** solicitar via LAI ou verificar se foi publicado posteriormente
 - **Prioridade:** baixa
 
-### [P017] Contratos de luminárias DATACITY — possível duplicidade
+### [P017] Contratos de luminárias DATACITY — RESOLVIDO ✅
 - **Onde:** contratos 243/2020 e 111/2021
 - **Problema:** dois contratos de objeto similar em anos consecutivos para o mesmo fornecedor
 - **Ação:** verificar se houve novo processo licitatório ou substituição irregular
@@ -63,7 +48,8 @@ Registro de ajustes e melhorias identificadas ao longo do desenvolvimento.
 | P011 | Portal da Transparência de Ferraz — explorado e coletado | Sessão 10 |
 | P012 | Investigar aditivos contratuais DATACITY — PDFs analisados | Sessão 12 |
 | P015 | Resumo executivo TCE-SP gerado com autoria | Sessão 12 |
-
+| P013 | Classificação indevida CASAMAX — documentado e consolidado no relatório | Sessão 12 |
+| P008 | Dispensas de consultoria — 1 contrato FIA/USP R$ 397k, sem irregularidade | Sessão 12 |
 ## Formato de registro
 
 ```
