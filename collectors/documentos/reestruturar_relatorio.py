@@ -1,7 +1,12 @@
-# Relatório de Indícios de Irregularidade
+from pathlib import Path
+from datetime import date
+
+DOCS_DIR = Path("docs")
+
+relatorio_novo = """# Relatório de Indícios de Irregularidade
 **Município:** Ferraz de Vasconcelos — SP
 **Período analisado:** 2020–2026
-**Data do relatório:** 28/06/2026
+**Data do relatório:** {data}
 **Elaborado por:** Matheus Harvey
 **Metodologia:** Análise de dados públicos com suporte de ferramentas de inteligência artificial e processamento automatizado de dados.
 **Fontes:** TCE-SP · SICONFI/STN · Portal da Transparência Federal · Portal da Transparência Municipal · IBGE · DATASUS · SINAPI/CEF · Receita Federal
@@ -367,3 +372,14 @@ Gastos com ensino e saúde dentro dos limites constitucionais em 2022–2024. Ú
 
 *Relatório gerado pelo Ferraz Fiscal — ferramenta de auditoria cívica local.
 Dados públicos obtidos de fontes oficiais. Este documento não substitui análise jurídica especializada.*
+""".format(data=date.today().strftime("%d/%m/%Y"))
+
+# Salva o novo relatório
+saida = DOCS_DIR / "relatorio_irregularidades_20260620.md"
+saida.write_text(relatorio_novo, encoding="utf-8")
+print(f"Relatório reestruturado salvo em: {saida}")
+print(f"Total de caracteres: {len(relatorio_novo)}")
+print(f"\nNova estrutura:")
+for linha in relatorio_novo.split('\n'):
+    if linha.startswith('#'):
+        print(f"  {linha}")
