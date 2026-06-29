@@ -13,27 +13,11 @@ Registro de ajustes e melhorias identificadas ao longo do desenvolvimento.
 - **Ação futura:** monitorar se a API volta a funcionar; tentar endpoint `/dca`
 - **Prioridade:** baixa
 
-### [P006] Emendas parlamentares federais — sem filtro por município na API
-- **Onde:** `collectors/portal_federal/coletor_emendas.py`
-- **Problema:** endpoint `/api-de-dados/emendas` não possui parâmetro de município
-- **Nota:** emendas municipais já coletadas via portal de Ferraz (172 registros)
-- **Pendente:** emendas federais destinadas a Ferraz ainda não coletadas
-- **Solução futura:** baixar CSV completo do Portal Federal e filtrar localmente
-- **Prioridade:** média
-
 ### [P008] Investigar dispensas de licitação — consultoria
 - **Onde:** `data/processed/tce_sp/licitacoes_ferraz.csv`
 - **Status parcial:** fracionamento ✅ · locações ✅ · medicamentos ✅
 - **Pendente:** investigar 4 dispensas de consultoria identificadas
 - **Prioridade:** baixa
-
-### [P012] Investigar aditivos contratuais DATACITY
-- **Onde:** `data/raw/transparencia_ferraz/datacity/`
-- **Achado:** Contrato 161/2016 ativo por pelo menos 6 anos com 9 aditivos
-- **PDFs obtidos:** contratos 329/2022, 189/2021, 243/2020, 111/2021 e aditivos
-- **Pendente:** ler PDFs e extrair valores originais vs aditivos
-- **Pendente:** reconciliar gap de R$ 30mi sem contrato identificado (2020-2023)
-- **Prioridade:** alta
 
 ### [P013] Classificação indevida de concreto usinado — CASAMAX
 - **Onde:** processos 00030, 00032, 00059 — portal transparência Ferraz
@@ -41,7 +25,6 @@ Registro de ajustes e melhorias identificadas ao longo do desenvolvimento.
 - **Achado confirmado:** Pregão 00030/2026 mistura café, açúcar e biscoito com 21.000t de asfalto
 - **Escalada de preços:** R$ 498/t → R$ 548/t → R$ 648/t (aumento de 30%)
 - **Desvio SINAPI:** processo 00030 pratica R$ 640-648/t vs R$ 500/t SINAPI (+28%)
-- **LAI:** não necessária — dados obtidos via portal de transparência
 - **Pendente:** consolidar no relatório final para denúncia TCE-SP
 - **Prioridade:** alta
 
@@ -50,12 +33,17 @@ Registro de ajustes e melhorias identificadas ao longo do desenvolvimento.
 - **Pendente:** adicionar página com CASAMAX/DATACITY do portal municipal
 - **Prioridade:** média
 
-### [P015] Relatório final — consolidação para denúncia TCE-SP
-- **Onde:** `docs/relatorio_irregularidades_20260620.md`
-- **Pendente:** resumo executivo de 1 página
-- **Pendente:** numerar e consolidar todos os achados
-- **Pendente:** definir timing com base nas eleições municipais
-- **Prioridade:** alta
+### [P016] Contrato 189/2021 DATACITY — 2º aditivo não localizado
+- **Onde:** `data/raw/transparencia_ferraz/datacity/pdfs-complementares/SIAM_189_2021/`
+- **Problema:** 2º aditivo não encontrado nos documentos públicos disponíveis
+- **Ação:** solicitar via LAI ou verificar se foi publicado posteriormente
+- **Prioridade:** baixa
+
+### [P017] Contratos de luminárias DATACITY — possível duplicidade
+- **Onde:** contratos 243/2020 e 111/2021
+- **Problema:** dois contratos de objeto similar em anos consecutivos para o mesmo fornecedor
+- **Ação:** verificar se houve novo processo licitatório ou substituição irregular
+- **Prioridade:** baixa
 
 ---
 
@@ -67,11 +55,14 @@ Registro de ajustes e melhorias identificadas ao longo do desenvolvimento.
 | P003 | Código IBGE incorreto (3515103 → 3515707) | Sessão 1 |
 | P004 | Critério de totalização de despesas (Liquidadas) | Sessão 2 |
 | P005 | Parâmetros corretos do endpoint de convênios | Sessão 3 |
+| P006 | Emendas federais — R$ 58,6mi extraídos e documentados | Sessão 12 |
 | P007 | Encoding incorreto nos nomes de colunas — licitações TCE-SP | Sessão 5 |
+| P008 | Empresa baixada (E DE SOUZA LOPES) — baixa posterior aos contratos | Sessão 7 |
 | P009 | Monitorar pessoal e saúde — incluído no dashboard AUDESP | Sessão 6 |
-| P010 | Empresa baixada (E DE SOUZA LOPES) — baixa posterior aos contratos | Sessão 7 |
-| P011 | Custo mensal nas locações de imóveis | Sessão 8 |
----
+| P010 | Custo mensal nas locações de imóveis | Sessão 8 |
+| P011 | Portal da Transparência de Ferraz — explorado e coletado | Sessão 10 |
+| P012 | Investigar aditivos contratuais DATACITY — PDFs analisados | Sessão 12 |
+| P015 | Resumo executivo TCE-SP gerado com autoria | Sessão 12 |
 
 ## Formato de registro
 
