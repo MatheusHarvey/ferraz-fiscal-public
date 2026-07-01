@@ -31,20 +31,19 @@ Todos os dados são **públicos e verificáveis**:
 
 ## Estrutura do projeto
 
-\ferraz-fiscal/
-├── collectors/          # Scripts de coleta e análise
-│   ├── siconfi/         # Receitas e despesas orçamentárias
-│   ├── tce_sp/          # Licitações, contratos e despesas
-│   ├── portal_federal/  # Convênios e emendas federais
-│   ├── transparencia_ferraz/ # Portal municipal
-│   ├── sinapi/          # Preços de referência de obras
-│   ├── ibge/            # Indicadores socioeconômicos
-│   └── datasus/         # Indicadores de saúde
-├── dashboard/           # Dashboard Streamlit interativo
-│   └── app.py
-├── data/processed/      # Dados processados prontos para análise
-└── docs/                # Relatório e resumo executivo
-\
+ferraz-fiscal/
+  collectors/
+    siconfi/              - Receitas e despesas orcamentarias
+    tce_sp/               - Licitacoes, contratos e despesas
+    portal_federal/       - Convenios e emendas federais
+    transparencia_ferraz/ - Portal municipal
+    sinapi/               - Precos de referencia de obras
+    ibge/                 - Indicadores socioeconomicos
+    datasus/              - Indicadores de saude
+  dashboard/
+    app.py                - Dashboard Streamlit interativo
+  data/processed/         - Dados processados para analise
+  docs/                   - Relatorio e resumo executivo
 ## Como rodar
 
 \\ash
